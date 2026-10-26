@@ -1,0 +1,20 @@
+{
+  "name": "schrijven-rijksoverheid",
+  "interface": {
+    "displayName": "Schrijven bij de Rijksoverheid"
+  },
+  "plugins": [
+    {
+      "name": "schrijven-rijksoverheid",
+      "source": {
+        "source": "local",
+        "path": "./plugins/schrijven-rijksoverheid"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

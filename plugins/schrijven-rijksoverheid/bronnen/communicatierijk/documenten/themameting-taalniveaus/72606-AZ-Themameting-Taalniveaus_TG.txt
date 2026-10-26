@@ -1,0 +1,1497 @@
+[Tekstversie van 72606+-+AZ+-+Themameting+Taalniveaus_TG.pdf, omgezet met pdftotext -layout]
+
+Themaonderzoek
+Taalniveaus
+Welk taalniveau (A2 of B1) is het meest
+geschikt voor communicatieteksten vanuit
+de Rijksoverheid?
+
+
+
+
+Dieter Verhue, Juliette Bouwman
+244408438
+22 januari, 2021
+1
+Context
+Aanvullend op de Publieksmonitor, waarin
+                                               2
+                                               Onderzoeksdoel
+                                               Uit eerder onderzoek is gebleken dat
+                                                                                             3
+                                                                                             Centrale vraag
+                                                                                             De centrale vraag van dit onderzoek luidt:
+de beleving van burgers met betrekking tot     taal­niveau A2 beter aansluit op de behoef-   Hoe beoordeelt men teksten van de over-
+overheidscommunicatie in kaart wordt           te (en vaardigheden) van laaggeletterden      heid van verschillende taalniveaus (A2 en
+gebracht, is er behoefte aan meer inzicht      en mensen die de Nederlandse taal niet        B1)?
+in het meest optimale taalniveau voor          goed beheersen. Het doel van dit onder-
+communicatie op Rijksoverheid.nl. Voor de      zoek is om in kaart te brengen hoe deze
+inzichten vanuit de Publieksmonitor verwij-    A2-teksten worden gewaardeerd en
+zen wij u naar het rapport:                    begrepen door het algemeen publiek,
+DPC communicatie onderzoek monitor.            waaronder dus ook mensen die de
+                                               Nederlandse taal wel goed beheersen.
+Dit rapport gaat dus specifiek over de         Dienst Publiek en Communicatie (DPC)
+bepaling van het meest optimale taalniveau     kan op basis van deze uitkomsten een
+voor communicatie op Rijksoverheid.nl. In      afgewogen taalniveau-keuze maken voor
+totaal zijn er zes taalniveaus: niveau A1 is   hun communicatie aan burgers.
+het laagste niveau en taalniveau C2 is het
+hoogste niveau. Op dit moment wordt
+taalniveau B1 op Rijksoverheid.nl nage-
+streefd. In het huidige onderzoek wordt
+gekeken naar de leessnelheid, begrip en
+beoordeling van teksten op het ‘huidige
+taalniveau’ B1 en is dit afgezet tegen een
+lager taalniveau, namelijk A2. Aanleiding is
+dat de overheid streeft naar inclusie voor
+iedereen en op alle terreinen: communicatie
+op Rijksoverheid.nl dient voor iedereen
+voldoende duidelijk en passend te zijn.
+
+2 | Themaonderzoek Taalniveaus
+Centrale vraag
+
+
+                  Hoe beoordeelt men teksten van de overheid van verschillende taalniveaus (A2 en B1)?
+
+
+
+
+     Welk effect heeft                 Hoe waardeert men          In hoeverre spelen        Hoe kunnen teksten
+taalniveau op lees­snelheid              teksten met een          voorkennis, belang        worden verbeterd?
+        en begrip?                   verschillend taalniveau?   en houding ten aanzien
+                                                                van het leesonderwerp
+                                                                       een rol?
+
+
+
+
+3 | Themaonderzoek Taalniveaus
+Leeswijzer
+
+
+01                               02                             03                        04                         05
+Dit onderzoek is opge-           Dit onderzoek is uitge-        Letterlijke quotes van    Wanneer in grafieken       In sommige gevallen telt
+bouwd uit 10 verschillende       stuurd onder algemeen          respondenten of impres-   significante verschillen   het totaal niet precies op
+teksten en 10 onafhanke-         publiek van 18 jaar en         sies hiervan zijn te      worden aangetoond          tot 100%, dit kan komen
+lijke (representatieve)          ouder. In totaal hebben        herkennen aan schuin­     tussen groepen, worden     door afrondverschillen of
+steekproeven (voor iedere        n=2.089 Nederlanders           gedrukte tekst en         de betreffende percenta-   doordat het een meervou-
+tekst één).                      (representatief op             “aanhalingstekens”.       ges aangeduid met een      dige vraag betreft.
+De teksten zijn verdeeld         geslacht, leeftijd (18+),                                +/-teken.
+over vijf onderwerpen en         regio en opleidingsniveau
+van ieder onderwerp zijn         en huishoudgrootte)
+er twee varianten (taal­         deelgenomen.
+niveau A2 en B1). Door
+deze opzet is het mogelijk       De volledige onderzoeks­
+om op een betrouwbare            specificaties zijn te vinden
+wijze in kaart te brengen        in de bijlage.
+welk taalniveau het meest
+wenselijk is. Zie de vol-
+gende slide voor een extra
+toelichting.
+
+
+
+
+4 | Themaonderzoek Taalniveaus
+Opzet van het onderzoek I
+
+Optimale vergelijkbaarheid van de teksten                                 Opzet van het themaonderzoek:
+
+Bij dit onderzoek is het heel belangrijk dat de beoordelingen van de      10 steekproeven, 1 vragenlijst, 10 teksten (5 onderwerpen x
+teksten onderling goed vergelijkbaar zijn. Vandaar dat wij:               2 taalniveaus)
+
+• tien communicatieteksten hebben opgesteld. Deze tien teksten gingen
+  over vijf verschillende onderwerpen: Schoolvakanties, Scheiden,                                    introductie
+  Thuisquarantaine, Sociale huur en Nieuwe coronamaatregelen. Iedere                 toewijzing iedere respondent aan één tekst
+  onderwerp is op twee verschillende taalniveaus (A2 en B1) uitgewerkt.
+
+• elke respondent kreeg maar één tekst (en dus één taalniveau) aangebo-        School-       School-       Scheiden       Scheiden       Thuis-
+                                                                              vakanties     vakanties         A2             A2        quarataine
+  den om te lezen en om zich op te richten. Hierdoor is er geen (onder-
+                                                                                 A2            B1                                         A2
+  linge) invloed van andere teksten en is voorkomen dat de aandacht na
+  het lezen van meerdere teksten verslapte, wat wel kan gebeuren als
+  dezelfde respondent meerdere teksten achter elkaar had moeten lezen.                                                     Nieuwe        Nieuwe
+                                                                                Thuis-     Sociale huur   Sociale huur
+                                                                                                                          corona-       corona-
+                                                                              quarataine       A2             B1
+                                                                                                                         maatregelen   maatregelen
+• de steekproef is voor iedere tekst op dezelfde manier samengesteld en          B1
+                                                                                                                             A2            B1
+  achteraf (waar nodig) herwogen. Hierdoor zijn de groepen respondenten
+  per tekst goed met elkaar te vergelijken.
+                                                                                           beoordeling van deze ene tekst
+We hebben dus gekozen voor een opzet waarbij elke respondent
+slechts één tekst las en beoordeelde, waarbij de steekproef bij elke
+tekst identiek is samengesteld.
+
+Hiernaast vindt u de opzet schematisch weergegeven.
+
+
+
+
+5 | Themaonderzoek Taalniveaus
+Opzet van het onderzoek II
+
+Opbouw van de vragenlijst
+                                                                             • Na het vaststellen van het begrip is nagegaan in hoeverre iedere respon-
+De vragenlijstopbouw is voor iedere tekst als volgt:                           dent het eens is met de inhoud van de tekst, wat hun voorkennis is en
+                                                                               hoe belangrijk zij de inhoud van de tekst vinden. Deze drie aspecten zijn
+• Korte introductietekst over het onderwerp en doel van het onderzoek.         gebruikt als mogelijke controle variabelen: om na te gaan of deze aspec-
+                                                                               ten niet de gevonden resultaten veroorzaken of beïnvloeden (/verklaren).
+• De willekeurig geselecteerde tekst (één van de tien) is getoond en de
+  respondent is gevraagd de tekst aandachtig te lezen. De leestijd is        • Hierna hebben de respondenten de tekst beoordeeld op zeven verschil-
+  vastgesteld op basis van het aantal seconden tussen het tonen van de         lende beoordelingsaspecten, zoals de mate van duidelijkheid en de mate
+  tekst en het klikken op de knop ‘volgende vraag’. Let op: de lengte van      waarin zij zich door de tekst serieus genomen voelen.
+  de A2-en B1-teksten voor ieder onderwerp kunnen enigszins ver-
+  schillen. Dit is mede het gevolg van het bijbehorende taalniveau en        • Na de beoordeling heeft iedere respondent een rapportcijfer aan de tekst
+  de uitwerking hiervan. Hetzelfde geldt voor de opmaak van de tekst           gegeven en hebben zij, bij een onvoldoende, dit verder toegelicht.
+  (bv. gebruik van bulletsof een tabel). Dit kan uiteraard van invloed
+  zijn geweest op de leestijd van iedere tekst zoals getoond in dit          • Tot slot is de gehele tekst wederom getoond en heeft iedere respondent,
+  rapport. Dit wordt echter niet als specifieke verklaring voor de             met een highlightertool, kunnen aangeven welke stukken tekst zij goed of
+  mogelijke verschillen in leestijd aangehaald aangezien dit onderdeel         niet goed vinden en waarom. Zij hebben dit gedaan door groene en/of
+  uitmaakt van de uitwerking van het taalniveau/experiment.                    rode duimpjes op de gewenste plek in de tekst te plaatsen en hier hun
+                                                                               toelichting bij te noteren.
+• Vervolgens zijn vier kennisstellingen voorgelegd om het begrip te meten.
+  Ieder onderwerp had vier unieke kennisstellingen aangezien de inhoud       In de bijlage zijn alle tien de gebruikte teksten opgenomen.
+  per onderwerp verschillend was. De kennisstellingen waren uiteraard niet
+  verschillend per taalniveau (binnen één onderwerp), zodat we het begrip
+  per taalniveau kunnen bepalen.
+
+
+
+
+6 | Themaonderzoek Taalniveaus
+1
+
+Inzichten en
+aanbevelingen
+Inzichten
+
+
+01	De  in dit onderzoek voorgelegde A2-teksten worden sneller gelezen dan de B1-teksten.
+    Dit verschil in leestijd treedt vooral op bij laagopgeleiden en mensen met een gemid-
+            deld opleidingsniveau. Bij hoog­opgeleiden is er geen verschil in leessnelheid.
+
+
+02	Zoals te verwachten, is het begrip van de teksten lager bij laagopgeleiden. Echter, blijkt
+    iedereen (laag, midden en hoog opgeleid) de B1-teksten net zo goed te begrijpen als
+            de A2-teksten. Kortom, het A2 taalniveau leidt niet tot meer tekstbegrip.
+
+
+03	Kijkend  naar de beoordeling en waardering van A2-en B1-teksten zien we wel een
+    duidelijk verschil: de A2-teksten worden positiever beoordeeld. Dit verschil is het sterkst
+            bij laagopgeleiden. Zij ervaren de A2-teksten als duidelijker en prettiger om te lezen.
+            De A2-teksten worden niet negatiever beoordeeld door hoogopgeleiden.
+
+
+04	De mate van voorkennis en belang van de lezer bij het onderwerp van de tekst, blijken
+    geen bepalende invloed te hebben op de bovenstaande inzichten. Wel leidt instemming
+            met de boodschap tot een positievere beoordeling van de tekst. Maar hierbij zijn er
+            geen verschillen tussen A2 en B1-teksten.
+
+
+05	Nemen   we de specifieke verbeterpunten per tekst samen, dan hebben participanten
+    het voornamelijk over te moeilijke woorden, lange zinnen, gebrek aan (voldoende)
+            voorbeelden en verwijzingen naar andere ondersteunende informatiebronnen. Deze
+            commentaren zien we vaker bij B1-teksten dan de A2-teksten terugkomen. Specifiek
+            voor de ‘coronateksten’ geldt dat participanten de boodschap onduidelijk vinden door
+            de vrijblijvendheiden doordat de aantallen verwarrend zijn.
+
+
+
+
+8 | Themaonderzoek Taalniveaus
+Aanbevelingen
+
+01	OOndanks
+      verweeg teksten op taalniveau A2 aan te bieden
+             dat het de leestijd en het begrip niet (altijd) zal verbeteren ten opzichte van het taalniveau B1, leidt het tot
+            een positievere beoordeling van communicatieteksten. En omdat dit nóg sterker het geval is onder laagopgeleiden
+            (de groep mensen die binnen dit vraagstuk extra aandacht verdienen) zou de voorkeur moeten uitgaan naar
+            taalniveau A2. Er zijn geen aanwijzingen dat hoogopgeleiden zich minder serieus genomen zullen voelen.
+
+
+02	DAllee communicatieteksten  verdienen enkel beperkte optimalisaties
+            getoonde communicatieteksten worden positief beoordeeld en kunnen slechts op details worden verbeterd.
+            Moeilijke woorden en uitdrukkingen (zoals huisvestigingsvergunning, dividend, gezamenlijk inkomen en scheiding
+            van tafel en bed) verdienen (ook binnen de A2-teksten) toelichting. Tevens is het belangrijk om de communicatie-
+            boodschap stellig en eenduidig neer te zetten om verwarring te voorkomen. De A2-teksten over corona hebben
+            hierbij de meeste prioriteit.
+
+
+03	MParticipanten
+      aak gebruik van voorbeelden en verwijzingen
+                   (zowel laag-als hoogopgeleiden) waarderen de gegeven voorbeelden in de teksten en geven aan dat
+            dit vaker of uitgebreider toegepast kan worden. Om de overzichtelijkheid/leesbaarheid van de tekst te waarborgen
+            (oftewel de tekst niet op te blazen met allerlei voorbeelden) is het aan te raden om deze buiten de hoofdtekst te
+            plaatsen en/of meer gebruik te maken van hyperlinks naar overige informatiebronnen waar meer voorbeelden,
+            uitleg of overige informatie over het onderwerp worden getoond. Hier wordt ook frequent om gevraagd. Hierbij moet
+            wel getest worden of het aanbieden van hyperlinks in de praktijk ook daadwerkelijk tot de gewenste ervaring en
+            gebruik leidt.
+
+
+04	Maak  voor de lezer duidelijk onderscheid tussen (deel)onderwerpen
+    Door deelonderwerpen (meer) te onderscheiden en los te behandelen kan de duidelijkheid worden verhoogd.
+            Dit kan door meer losse paragrafen (met titel) te gebruiken, vaker gebruik te maken van bullets en/of gebruik te
+            maken van meer visuele informatieoverdracht (infographic, flowcharts, etc.). Kortom, ieder deelonderwerp of
+            -boodschap dient los verpakt en gecommuniceerd te worden (rekening houdend met de toegankelijkheidseisen)
+            om onderlinge verwarring te voorkomen.
+
+9 | Themaonderzoek Taalniveaus
+2
+
+Leessnelheid en
+begrip per taalniveau
+De gemiddelde leestijd van A2-teksten is korter dan van B1-teksten. Dit komt voornamelijk door het grote
+verschil in leestijd van de tekst over de nieuwe coronamaatregelen.
+De gemiddelde leestijd van A2-teksten is korter dan van B1-teksten. Dit komt voornamelijk
+   De gemiddelde leestijd van A2-teksten is korter dan van B1-teksten. Dit komt voornamelijk
+door het grote verschil in leestijd van de tekst over de nieuwe coronamaatregelen.
+   door het grote verschil in leestijd van de tekst over de nieuwe coronamaatregelen.
+ • Let op dat de gemiddelde leestijden per taalniveau erg per onderwerp kunnen verschillen.
+ꟷ• Let
+   Het op  dat deingemiddelde
+       verschil      gemiddeldeleestijden     per
+                                    leestijd bij    taalniveau
+                                                  het onderwerp  erg per
+                                                                   Nieuweonderwerp kunnen verschillen.
+                                                                            coronamaatregelenis  niet enkel toe te schrijven aan de langere B1-tekst dan de A2-tekst, want
+      ꟷ Let op dat de gemiddelde leestijden per taalniveau erg per onderwerp kunnen verschillen.
+ꟷ Het
+   danꟷverschil
+        zouden    in
+                  wegemiddelde     leestijd bij
+                       hetzelfde verschil    bij het  onderwerp
+                                                 o.a. het          Nieuwe
+                                                           onderwerp       coronamaatregelen
+                                                                       Scheiden               is niet
+                                                                                 moeten terugzien     enkel
+                                                                                                    (hier    toe te
+                                                                                                          is de B1-versie   ookaan
+                                                                                                                    schrijven      de dan
+                                                                                                                                langer    deB1-tekst
+                                                                                                                                     langere          dan– de
+                                                                                                                                             A2-versie)       A2-tekst,
+                                                                                                                                                           maar  we zien  hierdan
+                                                                                                                                                                        want
+         Het verschil in gemiddelde leestijd bij het onderwerp Nieuwe coronamaatregelen is niet enkel toe te schrijven aan de langere B1-tekst dan de A2-tekst, want dan
+   zouden
+   geen     we  hetzelfde
+         verschil   in       verschil
+                       leestijd.      bij o.a.
+                                 Tekstlengte    het
+                                                is   onderwerp
+                                                   dus  niet      Scheiden
+                                                             allesbepalend. moeten terugzien (hier is de  B1-versie  ook  langer dan de A2-versie) – maar we  zien
+         zouden we hetzelfde verschil bij o.a. het onderwerp Scheiden moeten terugzien (hier is de B1-versie ook langer dan de A2-versie) – maar we zien hier geen hier geen
+   verschil in in
+               leestijd.
+         verschil        Tekstlengte
+                     leestijd.          is is
+                               Tekstlengte dusdusniet allesbepalend.
+                                                   niet allesbepalend.
+
+
+
+
+                                                                                                                          Schoolvakanties          Scheiden           Thuisquarantaine    Sociale huur   Nieuwe corona­
+                                                                                                                                                                                                          maatregelen
+                                                                                                                             Schoolvakanties             Scheiden            Thuisquarantaine    Sociale huur    Nieuwe corona­
+                                                                                                                                                                                                                  maatregelen
+                                                           A2 totaal n=1040; B1 totaal n=1049; Schoolvakanties A2 n=209/ B1 n=200; Scheiden A2 n=211/ B1 n=212; Thuisquarantaine
+                                                 A2 n=212/ B1 n=234; Sociale huur A2 n=201/ B1 n=202; Nieuwe coronamaatregelen A2 n=207/ B1 n=201.                                                                   11
+A2 totaal n=1040; B1 totaal n=1049; Schoolvakanties A2 n=209/ B1 n=200;
+Scheiden A2 n=211/ B1 n=212; Thuisquarantaine A2
+                                               A2totaal
+                                                   n=212/    B1B1
+                                                        n=1040;  n=234;      Sociale
+                                                                   totaal n=1049;   Schoolvakanties A2 n=209/ B1 n=200; Scheiden A2 n=211/ B1 n=212; Thuisquarantaine
+                                                                                                                                                                                                                             11
+huur A2 n=201/ B1 n=202; Nieuwe coronamaatregelen     A2B1
+                                               A2 n=212/  n=207/     B1 n=201.
+                                                            n=234; Sociale   huur A2 n=201/ B1 n=202; Nieuwe coronamaatregelen A2 n=207/ B1 n=201.
+
+
+
+
+11 | Themaonderzoek Taalniveaus
+Kijken we naar opleidingsniveau dan blijken laagopgeleiden en mensen met een gemiddeld
+opleidingsniveau de A2-teksten, gemiddeld genomen, iets sneller te lezen dan de B1-teksten.
+Hoogopgeleiden blijken vrijwel evenveel tijd te spenderen aan het lezen van A2-en B1-teksten.
+    Kijken we naar opleidingsniveau dan blijken laagopgeleiden en mensen met een gemiddeld
+    opleidingsniveau de A2-teksten, gemiddeld genomen, iets sneller te lezen dan de B1-teksten.
+• Op de vorige slide zagen we dat er vooral een groot verschil in leestijd tussen de taalniveaus is voor het onderwerp Nieuwe coronamaatregelen. Als we dit
+    Hoogopgeleiden
+  onderwerp                   blijken
+             buiten beschouwing           vrijwel
+                                laten in de  uitsplitsingevenveel      tijd te spenderen
+                                                          naar opleidingsniveau,                      aan
+                                                                                 blijkt het verschil in      het
+                                                                                                        leestijd    lezen
+                                                                                                                 tussen A2 envan  A2-laagopgeleiden
+                                                                                                                              B1 onder en B1-teksten.
+                                                                                                                                                    kleiner te
+  worden, A2:vorige
+    ꟷ Op de    57,43   seconden
+                    slide zagen wetegen
+                                    dat erB1:  58,38
+                                          vooral  een seconden.
+                                                      groot verschilVoor  de andere
+                                                                     in leestijd tussentwee    opleidingsniveaus
+                                                                                        de taalniveaus                 zien we geen
+                                                                                                         is voor het onderwerp        verschil
+                                                                                                                                  Nieuwe                      Alshetachterwege
+                                                                                                                                               in leestijd door
+                                                                                                                                         coronamaatregelen.       we dit        laten
+       onderwerp  buiten beschouwing  laten in
+  van het onderwerp Nieuwe coronamaatregelen.  de uitsplitsing naar opleidingsniveau,  blijkt het verschil in leestijd tussen A2 en B1 onder laagopgeleiden  kleiner te worden,
+         A2: 57,43 seconden tegen B1: 58,38 seconden. Voor de andere twee opleidingsniveaus zien we geen verschil in leestijd door het achterwege laten van het
+         onderwerp Nieuwe coronamaatregelen.
+
+
+
+
+                                     A2 taalniveau                                                                                     B1 taalniveau
+
+
+
+
+A2 Laag n=228/ Midden n=415/ Hoog n=394; B1 Laag n=230/ Midden n=418/ Hoog n=398.
+                                                   A2 Laag n=228/ Midden n=415/ Hoog n=394; B1 Laag n=230/ Midden n=418/ Hoog n=398.                                            12
+
+
+
+
+12 | Themaonderzoek Taalniveaus
+A2-en B1-teksten worden even goed begrepen. Het gemiddelde aantal goed gegeven antwoorden (op de
+vier kennisstellingen) is zowel op totaalniveau als per onderwerp nagenoeg gelijk tussen de taalniveaus.
+
+• Tussen de onderwerpen zien we wel duidelijk verschillen in het gemiddelde aantal goed gegeven antwoorden. Zo wordt bijvoorbeeld de tekst over school­
+  vakanties beter begrepen dan de tekst over sociale huur.
+
+
+                Begrip totaal – per taalniveau                                                Begrip per onderwerp – per taalniveau
+                                                                                 Gem.        Gem.        Gem.        Gem.        Gem.        Gem.        Gem.        Gem.     Gem.       Gem.
+                                                                                 3,33        3,15        3,22        3,15        3,03        3,00        3,85        3,96     3,17       3,14
+           Gem. 3,12 goede                          Gem. 3,08 goede
+             antwoorden                               antwoorden                                                                                         24%
+                                                                                                                                 35%                                 34%+                 34%
+                                                                                             45%-                                            41%                               35%
+                                                                                                         51%         49%
+                                                                                 55%+
+
+                   40%                                    41%
+                                  4 juiste antwoorden                                                                                                    43%
+                                  3 juiste antwoorden                                                                                                                38%
+                                                                                                                                 40%+        30%-                                         48%
+                                  2 juiste antwoorden                                        33%
+                                                                                                                     28%                                                       50%
+                                  1 juist antwoord                                                       28%
+                                                                                  28%
+                   38%            0 juiste antwoorden     35%
+                                                                                                                                             20%         27%         19%
+                                                                                             18%                     15%         20%
+                                                                                  13%                    14%
+                                                                                        3%          3%          4%          5%          4%          8%          5%          5% 12%    17%
+                                  4%                      18%         5%                1%          2%          2%          3%          1%          1%          1%          3%     2%     1%
+                   17%
+                                  1%                                  2%          A2         B1          A2          B1           A2         B1          A2          B1        A2         B1
+                                                                                Schoolvakanties            Scheiden          Thuisquarantaine            Sociale huur             Nieuwe
+                  A2                                    B1                                                                                                                   coronamaatregelen
+                                                                                0 juiste antwoorden      1 juist antwoord        2 juiste antwoorden      3 juiste antwoorden        4 juiste antwoorden
+
+
+
+A2 totaal n=1040; B1 totaal n=1049; Schoolvakanties A2 n=209/ B1 n=200; Scheiden A2 n=211/ B1 n=212; Thuisquarantaine A2 n=212/ B1 n=234; Sociale huur A2 n=201/ B1
+n=202; Nieuwe coronamaatregelen A2 n=207/ B1 n=201.
+
+
+
+
+13 | Themaonderzoek Taalniveaus
+Voor alle drie de opleidingsniveaus geldt dat beide taalniveaus evengoed worden begrepen
+
+• Het gaat hier wederom over het aantal goed gegeven antwoorden op de kennisstellingen.
+
+
+                                                        Begrip per opleidingsniveau – per taalniveau
+
+       Gem. 2,93                  Gem. 2,82                                     Gem. 3,07               Gem. 3,11                                       Gem. 3,29           Gem. 3,19
+
+
+            33%                      30%
+                                                                                    38%                     41%
+                                                                                                                                                              46%               46%
+
+
+
+                                     33%
+            36%
+                                                                                    38%                     36%
+                                                                                                                                                              39%               35%
+
+                                     29%
+            25%
+                      5%                                                            17%                     16%                                                                 13%
+                                              7%                                              5%                       4%                                     13%   2%                   4%
+                      2%                      2%                                              1%                       2%                                           1%                   2%
+
+   Laag opgeleid - A2        Laag opgeleid - B1                            Midden opgeleid - A2 Midden opgeleid - B1                                Hoog opgeleid - A2   Hoog opgeleid - B1
+
+
+
+                                                   0 juiste antwoorden   1 juist antwoord   2 juiste antwoorden   3 juiste antwoorden   4 juiste antwoorden
+
+
+
+A2 Laag n=228/ Midden n=415/ Hoog n=394; B1 Laag n=230/ Midden n=418/ Hoog n=398.
+
+
+
+
+14 | Themaonderzoek Taalniveaus
+Wanneer we de opleidingsniveaus met elkaar vergelijken dan blijken laagopgeleiden wel minder
+tekstbegrip te hebben dan de twee andere groepen
+
+                                                           Begrip per opleidingsniveau – per taalniveau
+
+        Gem. 2,93(-)                 Gem. 3,07(-)               Gem. 3,29(+)                                            Gem. 2,82(-)                Gem. 3,11(-)         Gem. 3,19(+)
+
+
+             33%-                                                                                                            30%-
+                                          38%-                                                                                                           41%+
+                                                                     46%+                                                                                                    46%+
+
+
+
+                                                                                                                             33%
+             36%
+                                          38%                                                                                                            36%
+                                                                     39%                                                                                                     35%
+
+                                                                                                                             29%+
+             25%+
+                        5%+               17%-                                                                                                           16%-                13%-
+                                                     5%+             13%-       2%-                                                      7%                        4%                   4%
+                        2%                           1%                         1%                                                       2%                        2%                   2%
+
+   Laag opgeleid - A2             Midden opgeleid - A2       Hoog opgeleid - A2                                      Laag opgeleid - B1         Midden opgeleid - B1    Hoog opgeleid - B1
+
+
+
+                                                    0 juiste antwoorden   1 juist antwoord   2 juiste antwoorden   3 juiste antwoorden    4 juiste antwoorden
+
+
+
+A2 Laag n=228/ Midden n=415/ Hoog n=394; B1 Laag n=230/ Midden n=418/ Hoog n=398.
+
+
+
+
+15 | Themaonderzoek Taalniveaus
+Er zijn geen significante verschillen in voorkennis gevonden tussen de twee taalniveau-groepen binnen
+ieder onderwerp –dit speelt dus geen bepalende rol op begrip
+
+
+                                                 De mate van voorkennis per onderwerp – per taalniveau
+
+                                  6%             1%               5%                         8%                        2%                 4%
+               9%                                                         10%                                                                  13%            13%
+                                          15%                                                                                       13%
+                                  18%                      16%                                                 17%
+               21%
+                                                                                             37%
+                                          28%                                                                                                  38%            39%
+                                                           24%            40%                                                       29%
+                                                                                                              33%
+
+                                  45%
+                39%                                        12%
+                                          21%                                                                                       17%
+                                                                                                               18%
+                                                                                             45%                                               40%            39%
+                14%               13%                                    40%
+                                                           44%
+                                                                                                               30%                  37%
+                                          35%                                      6%                  6%                                            9%             6%
+                17%               18%
+                                                                                   3%                  5%                                            1%             4%
+
+               A2                 B1      A2               B1             A2                  B1               A2                   B1         A2             B1
+                  Schoolvakanties               Scheiden                       Thuisquarantaine                      Sociale huur                    Nieuwe
+                                                                                                                                                coronamaatregelen
+
+
+                                            Helemaal mee oneens   Mee oneens     Neutraal   Mee eens    Helemaal mee eens
+
+
+
+
+Schoolvakanties A2 n=209/ B1 n=200; Scheiden A2 n=211/ B1 n=212; Thuisquarantaine A2 n=212/ B1 n=234; Sociale huur A2 n=201/ B1 n=202; Nieuwe coronamaatregelen A2
+n=207/ B1 n=201.
+
+
+
+
+16 | Themaonderzoek Taalniveaus
+Tevens zijn er geen significante verschillen in mate van belang gevonden tussen de twee taalniveau-
+groepen binnen ieder onderwerp -ook dit speelt geen bepalende rol op begrip
+
+
+                                                 De mate van belang per onderwerp – per taalniveau
+
+                8%                10%     11%              11%                                                16%                  20%
+                                                                          27%
+                12%               10%     11%              9%                                33%
+                                                                                                              15%                        44%            41%
+               16%                                                                                                                 15%
+                                          24%
+                                  24%                      22%
+                                                                          23%
+                                                                                             14%              18%                  15%
+               15%
+                                  10%     5%               8%
+                                                                                                              11%                  10%                  31%
+                                                                                                                                         29%
+                                                                          29%                34%
+
+               49%                        51%              50%
+                                  46%
+                                                                                                              40%
+                                                                          9%                  6%                                   41%   20%            21%
+                                                                                                                                               5%             5%
+                                                                          13%                 5%
+                                                                                                                                               2%             1%
+
+               A2                 B1      A2               B1             A2                  B1              A2                   B1    A2             B1
+                  Schoolvakanties               Scheiden                       Thuisquarantaine                     Sociale huur               Nieuwe
+                                                                                                                                          coronamaatregelen
+
+
+                                            Helemaal mee oneens   Mee oneens     Neutraal   Mee eens   Helemaal mee eens
+
+
+
+
+Schoolvakanties A2 n=209/ B1 n=200; Scheiden A2 n=211/ B1 n=212; Thuisquarantaine A2 n=212/ B1 n=234; Sociale huur A2 n=201/ B1 n=202; Nieuwe coronamaatregelen A2
+n=207/ B1 n=201.
+
+
+
+
+17 | Themaonderzoek Taalniveaus
+2
+
+Waardering en
+beoordeling
+Participanten geven aan dat er minder moeilijke woorden in de A2-teksten zaten dan in de B1-teksten en
+dat de A2-teksten vaker na één keer lezen duidelijk waren
+
+
+        Duidelijkheid                               Beperkt # moeilijke woorden                            Beperkt # keer lezen                                   Informatief
+
+     Gem. 3,99         Gem. 3,95                         Gem. 3,92(+)    Gem. 3,81(-)                      Gem. 3,70(+)    Gem. 3,51(1)                       Gem. 3,85        Gem. 3,84
+
+
+        33%               30%                               33%+            26%-                              31%+            26%-                               29%             26%
+
+
+
+                                       5 - Duidelijk                                    5 - Bevat weinig                                  5 - Na 1x lezen                                   5 - Geeft
+                                       4                                                    moeilijke                         32%             duidelijk                                         voldoende
+                                       3 - Neutraal                         44%             woorden            34%                        4                      41%             44%            info
+                          47%          2                     42%                        4                                                 3 - Neutraal                                      4
+        46%
+                                       1 - Onduidelijk                                  3 - Neutraal                                      2                                                 3 - Neutraal
+                                                                                        2                                     14%         1 - Moest meerder                                 2
+                                                                                        1 - Bevat veel        16%+                            keren lezen                                   1 - Geeft te
+                                                             13%-           16%+            moeilijke                                                            17%             17%            weinig info
+        10%               11%                                                                                                 25%
+                                                                                            woorden            20%-
+        10%              11%                                 10%            12%    2%                  5%                                                        12%             11%
+               1%                 1%                                3%                                                3%             4%                                   1%           1%
+
+        A2                B1                                 A2              B1                                A2              B1                                A2               B1
+
+
+
+A2 totaal n=1040; B1 totaal n=1049.
+
+
+
+
+19 | Themaonderzoek Taalniveaus
+Een A2-tekst roept bovendien minder vragen op en participanten vinden deze prettiger lezen –zonder dat
+dit ten koste gaat van de mate waarin zij zich serieus genomen voelen
+
+Daarbij geldt voor alle zeven getoonde beoordelingsdimensies (van de vorige en deze slide):
+• Kennis over het onderwerp blijkt op geen manier effect te hebben gehad op hoe de teksten werden beoordeeld.
+• Hetzelfde geldt voor persoonlijk belang: dit blijkt op geen manier effect te hebben op hoe de teksten zijn beoordeeld.
+
+
+
+              Roept vragen op                                                 Serieus genomen                                              Leest prettig
+
+           Gem. 3,59              Gem. 3,52                                   Gem. 3,85        Gem. 3,84                              Gem. 3,63(+)   Gem. 3,52(-)
+
+                                     22%                                                                                                 24%+            20%-
+               25%                                                               28%             27%
+
+                          55%-
+                         60%+                      5 - Roept weinig                                             5 - Ik word serieus                                  5 - Leest prettig
+                                     33%               vragen op                                                    genomen                              35%         4
+                35%                                4                                                            4                        36%                         3 - Neutraal
+                                                                                 40%              40%
+                                                   3 - Neutraal                                                 3 - Neutraal                                         2
+                                                   2                                                            2                                                    1 - Leest niet prettig
+                                    23%(+)         1 - Roept veel vragen op                                     1 - Ik word niet
+              18%(-)                                                                                                serieus genomen      21%-            25%+
+
+                                                                                 23%             25%
+               19%                   19%                                                                                                 16%             16%
+                        3%                                                       7%               6%                                            3%              4%
+                                              4%                                          2%               2%
+                A2                   B1                                          A2               B1                                      A2             B1
+
+
+A2 totaal n=1040; B1 totaal n=1049.
+
+
+
+
+20 | Themaonderzoek Taalniveaus
+De A2-teksten worden in vergelijking met de B1-teksten vooral door laagopgeleiden positiever
+beoordeeld. Daarbij worden A2-teksten niet negatiever door hoogopgeleiden beoordeeld -ze vinden
+A2-teksten zelfs vaker na één keer lezen duidelijk dan B1-teksten.
+
+
+
+    Laag opgeleid                              Midden opgeleid                           Hoog opgeleid
+
+    Laagopgeleiden geven significant           Mensen met een gemiddeld opleidings-      Hoogopgeleiden geven significant
+    vaker aan dat de A2-teksten in vergelij-   niveau blijken niet anders tegenover      vaker aan dat de A2 teksten in vergelij-
+    king met de B1-teksten:                    A2-teksten te staan dan ten aanzien van   king met de B1 teksten:
+                                               B1-teksten.
+    = na 1 x lezen duidelijk zijn                                                        = weinig moeilijke woorden bevatten
+    = voldoende informatie geven               Kortom, A2 en B1 worden niet anders       = na 1 x lezen duidelijk zijn
+    = weinig vragen oproepen                   beoordeeld op de uitgevraagde
+    = hen serieus nemen                        dimensies.                                Kortom, A2-teksten worden door hoogop-
+    = prettig lezen                                                                      geleiden niet negatiever op de dimensies
+                                                                                         beoordeeld dan B1-teksten.
+    Kortom, A2 wordt door laagopgeleiden
+    op veel dimensies positiever                                                         Let op, er is 1 significante uitzondering:
+    beoordeeld.                                                                          het bleek dat hoogopgeleiden de
+                                                                                         A2-tekst over Scheiden gemiddeld
+                                                                                         genomen als minder informatief beoor­
+                                                                                         delen dan de B1-tekst.
+
+
+
+
+21 | Themaonderzoek Taalniveaus
+De A2-en B1-teksten krijgen nagenoeg hetzelfde rapportcijfer. Geen van de teksten krijgt een lager
+ De A2- en B1-teksten krijgen nagenoeg hetzelfde rapportcijfer. Geen van de teksten krijgt een
+rapportcijfer dan een 7.
+  lager rapportcijfer dan een 7.
+  ꟷ Er zijn geen significante verschillen gevonden in gemiddelde rapportcijfers tussen A2- en B1-teksten onder laagopgeleiden, mensen met een gemiddeld
+• Eropleidingsniveau
+     zijn geen significante verschillen gevonden in gemiddelde rapport­cijfers tussen A2 en B1 teksten onder laagopgeleiden, mensen met een gemiddeld
+                     en hoogopgeleiden.
+  opleidingsniveau en hoogopgeleiden.
+
+
+                                                                                                                   Rapportcijfer                                  A2     B1
+
+                                                                                                                   Schoolvakanties                                7,8    7,7
+                                                                                                                   Rapportcijfer                             A2         B1
+                                                                                                                   Scheiden                                       7,5    7,4
+  A2 gemiddeld cijfer 7,4                                                                                          Schoolvakanties                           7,8        7,7
+                                                                                                                   Thuisquarantaine                               7,2    7,2
+  B1 gemiddeld cijfer 7,3
+                                                                                                                   Scheiden
+                                                                                                                   Sociale huur
+                                                                                                                                                             7,57,1     7,4
+                                                                                                                                                                         7,4
+
+                                                                                                                   Thuisquarantaine
+                                                                                                                   Nieuwe coronamaatregelen                  7,27,3     7,2
+                                                                                                                                                                         7,0
+
+                                                                                                                   Sociale huur                              7,1        7,4
+                                                                                                                   Nieuwe
+                                                                                                                   coronamaatregelen                         7,3        7,0
+
+
+
+
+A2 totaal n=1040; B1 totaal n=1049; Schoolvakanties   A2 n=209/ B1 n=200;
+                                              A2 totaal n=1040; B1 totaal n=1049; Schoolvakanties A2 n=209/ B1 n=200; Scheiden A2 n=211/ B1 n=212; Thuisquarantaine
+Scheiden A2 n=211/ B1 n=212; Thuisquarantaine A2 n=212/ B1 n=234; Sociale huur A2 n=201/ B1 n=202; Nieuwe coronamaatregelen A2 n=207/ B1 n=201.                                22
+A2 n=212/ B1 n=234; Sociale huur A2 n=201/ B1 n=202; Nieuwe coronamaatrege-
+len A2 n=207/ B1 n=201.
+
+
+
+
+22 | Themaonderzoek Taalniveaus
+Totaaloverzicht per taalniveau
+
+ Onderwerp                                  A2                                        B1                                        Extra toelichting/inzichten
+ Gemiddelde leessnelheid                    60,99 (-) sec                             65,4 (+) sec                              • Gemiddelde leestijden per taalniveau
+                                                                                                                                  verschillen erg per onderwerp.
+
+ Begrip                                     Gem. 3,12 goede antwoorden                Gem. 3,08 goede antwoorden                • Tussen de onderwerpen zien we wel
+                                                                                                                                  duidelijk verschillen in begrip.
+                                                                                                                                • Laagopgeleiden blijken minder
+                                                                                                                                  tekstbegrip te hebben dan de twee
+                                                                                                                                  andere groepen.
+
+ Beoordeling op aspecten                    • Minder moeilijke woorden                • Meer moeilijke woorden                  • De A2-teksten worden in vergelijking
+                                            • Vaker na 1x lezen duidelijk             • Minder vaak na 1x lezen duidelijk         met de B1-teksten vooral door
+                                            • Roept weinig vragen op                  • Roept meer vragen op                      laagopgeleiden positiever beoordeeld.
+                                            • Leest prettiger                         • Leest minder prettig                      Daarbij worden A2-teksten niet
+                                                                                                                                  negatiever door hoogopgeleiden
+                                                                                                                                  beoordeeld -ze vinden A2-teksten zelfs
+                                                                                                                                  vaker na één keer lezen duidelijk dan
+                                                                                                                                  B1-teksten.
+
+ Rapportcijfer                              7,4                                       7,3
+
+
+
+ Mogelijke latente/verklarende variabelen   Nee, voorkennis en belang spelen geen     Nee, voorkennis en belang spelen geen     • Naarmate participanten het meer eens
+                                            bepalende rol in de gevonden uitkomsten   bepalende rol in de gevonden uitkomsten     zijn met de inhoud van de tekst wordt
+                                            omtrent begrip/ beoordeling               omtrent begrip/ beoordeling                 de tekst ook op de meeste dimensies
+                                                                                                                                  positiever beoordeeld, maar dit
+                                                                                                                                  verschilt niet tussen de taalniveaus en
+                                                                                                                                  heeft dus geen impact gehad op de
+                                                                                                                                  gevonden beoordelingsuitkomsten.
+
+
+
+
+23 | Themaonderzoek Taalniveaus
+2
+
+Mogelijke verbeterpunten
+per tekst
+Schoolvakanties: slechts enkele mensen hebben de teksten over schoolvakanties met een
+onvoldoende beoordeeld
+ Schoolvakanties: slechts enkele mensen hebben de teksten over schoolvakanties met een onvoldoende
+ beoordeeld
+                                                                 Schoolvakanties (toelichting op gegeven onvoldoende)
+
+                    A2                        B1                  A2
+                                                                Schoolvakanties    (toelichting op gegeven onvoldoende)
+                                                                  “Duidelijk omschreven hoe men moet reageren, maar heb voor de
+                                                                  rest weinig met het onderwerp.”
+                                                                 A2
+                                                                 “Duidelijk omschreven hoe men moet reageren, maar heb voor
+                                                                   de rest weinig met het onderwerp.”
+                                                                  B1
+                                                                 B1
+                                                                 “Voor de gewone burger erg onduidelijke tekst.”
+                                                                 “Voor de gewone burger erg onduidelijke tekst.”
+                                                                  “Verschillende lettergroottes.”
+                                                                 “Verschillende lettergroottes.”
+                                                                  “Taal technisch niet top. Verschillende grootte in lettertypen en
+                                                                 “Taal technisch
+                                                                   dubbele        niet top. Verschillende grootte in lettertypen en
+                                                                            informatie.”
+    3% heeft de tekst met             4% heeft de tekst met        dubbele informatie.”
+ een onvoldoende beoordeeld        een onvoldoende beoordeeld     “Ik vind de tekst best dubbel in zijn bericht. Dit kan voor veel
+                                                                 “Imensen
+                                                                    k vind deonduidelijk
+                                                                              tekst best dubbel in zijn bericht.
+                                                                                         over komen.    De tekst Ditkan
+                                                                                                                     kankorter
+                                                                                                                         voor veel
+                                                                                                                               en duidelijker.”
+                                                                   mensen onduidelijk over komen. De tekst kan korter en
+                                                                   duidelijker.”
+
+
+
+
+                                                                                                                                                  25
+
+
+
+
+ 25 | Themaonderzoek Taalniveaus
+Schoolvakanties: binnen de A2-versie vraagt de tweede alinea de meeste aandacht ter optimalisatie
+
+
+                                                 Schoolvakanties A2
+                                                 In totaal zijn 75% van de duimpjes groen
+                                                 en 25% rood/oranje.
+
+
+
+
+                                                                                            “Er staat dat het niet mag, maar daarna
+“Duidelijk verhaal!”                                                                          staat er dat er toch een uitzondering
+                                                                                              mogelijk is. Dit vind ik altijd lastig om te
+“Toelichting is altijd goed.”                                                                 lezen.”
+
+“Duidelijk bij wie je moet zijn en hoe je het                                              “Het stukje tekst onder de kop Vrij buiten
+  moet aanvliegen.”                                                                           de schoolvakanties kan eenvoudiger en
+                                                                                              duidelijker. Dit stukje vind ik verwarrend.”
+“Duidelijk en belangrijk onderdeel van de
+  boodschap bovenaan.”                                                                      “Het stukje over bij welk werk wel of niet
+                                                                                              aanvragen, is onduidelijk. Er moet worden
+                                                                                              aangetoond dat er buiten de schoolva­
+                                                                                              kanties minder geld wordt verdiend? Of
+                                                                                              zijn laagseizoenprijzen die je wel kunt
+                                                                                              betalen en hoogseizoenprijzen niet ook al
+                                                                                              voldoende reden? Wat is hierbij het
+                                                                                              verschil met seizoens­gebonden werk?”
+
+                                                                                            “Niet duidelijk wat er gebeurt wanneer de
+                                                                                              directeur beslist dat het niet toegestaan is,
+                                                                                              wat zijn dan de vervolgstappen?”
+
+
+
+
+26 | Themaonderzoek Taalniveaus
+Schoolvakanties: binnen de B1-verie zijn sommige woorden te moeilijk, daarnaast vragen relatief veel
+respondenten om meer voorbeelden welk type werk hiervoor in aanmerkingen komen
+
+                                               Schoolvakanties B1
+                                               In totaal zijn 72% van de duimpjes groen
+                                               en 28% rood/oranje.
+
+
+
+
+“Feitelijk en duidelijk!”                                                                 “Lastig om te lezen als je de taal niet
+                                                                                            helemaal machtig bent.”
+“Inhoudelijk erg sterk, taalkundig kunnen
+  Jip en Janneke nog wel behulpzaam zijn.”                                                “Eerst heel stellig dat het niet mag en
+                                                                                            daarna dan: maar als… dan wel. Dit is
+“De toelichting geeft voldoende informatie.”                                                verwarrend.”
+
+“Leest makkelijk en duidelijk.”                                                           “Ik vind het niet prettig dat er in dit soort
+                                                                                            teksten direct gedreigd wordt. Dat is toch
+                                                                                            niet nodig?”
+
+                                                                                          “Ik zou meer concrete voorbeelden willen
+                                                                                            hebben van het type werk die hiervoor in
+                                                                                            aanmerking komt.”
+
+                                                                                          “Bedrijfseconomische risico’s vind ik een te
+                                                                                            moeilijk woord voor dit soort teksten.”
+
+                                                                                          “Wat wordt hier verstaan onder een
+                                                                                          accountant?”
+
+
+
+27 | Themaonderzoek Taalniveaus
+Scheiden: er is een beperkte groep mensen die de teksten over scheiden met een
+onvoldoende
+ Scheiden: er isbeoordeeld
+                 een beperkte groep mensen die de teksten over scheiden met een onvoldoende
+ beoordeeld
+                                                                 Scheiden (toelichting op gegeven onvoldoende)
+
+                    A2                        B1                   A2
+                                                                Scheiden      (toelichting op gegeven onvoldoende)
+                                                                   “Dit is toch geen tekst... het zijn alleen maar losse zinnen zonder
+                                                                 A2enig verband of vloeiendheid. Ik voel me een kleuter als ik dit moet
+                                                                   lezen.”
+                                                                 “D it is toch geen tekst... het zijn alleen maar losse zinnen
+                                                                  zonder enig verband of vloeiendheid. Ik voel me een kleuter als
+                                                                  “Erditstaat
+                                                                  ik     moetonder ieder kopje dezelfde informatie. Heel irritant om te
+                                                                              lezen.”
+                                                                   lezen. En dan als laatste zin (als ieder normaal mens het allang
+                                                                   heeft
+                                                                 “E      opgegeven)
+                                                                     r staat onder iederstaat
+                                                                                         kopjeopeens
+                                                                                               dezelfdedat je pas echt
+                                                                                                         informatie.   bent
+                                                                                                                     Heel      gescheiden
+                                                                                                                          irritant om
+                                                                   nadat   het in een register is opgenomen.”
+                                                                   te lezen. En dan als laatste zin (als ieder normaal mens het
+                                                                  allang heeft opgegeven) staat opeens dat je pas echt bent
+                                                                  B1
+                                                                  gescheiden nadat het in een register is opgenomen.”
+                                                                 “Er worden termen gebruikt die niet worden uitgelegd (scheiding
+    5% heeft de tekst met             8% heeft de tekst met      van tafel en bed).”
+                                                                 B1
+ een onvoldoende beoordeeld        een onvoldoende beoordeeld    “Er worden termen gebruikt die niet worden uitgelegd (scheiding
+                                                                   “Te beknopt
+                                                                   van tafel     waardoor het je vragen niet beantwoord.”
+                                                                             en bed).”
+
+                                                                  “Te lange
+                                                                 “Te beknoptzinnen en te
+                                                                             waardoor    moeilijke
+                                                                                      het je       woorden.”
+                                                                                             vragen niet beantwoord.”
+
+                                                                 “Te lange zinnen en te moeilijke woorden.”
+
+
+                                                                                                                                            28
+
+
+
+
+ 28 | Themaonderzoek Taalniveaus
+Scheiden: veel mensen hebben niet eerder gehoord van ‘scheiding van tafel en bed’ en meerdere geven
+aan dat een andere indeling voor hen logischer en duidelijker was geweest
+
+                                               Scheiden A2
+                                               In totaal zijn 77% van de duimpjes groen
+                                               en 23% rood/oranje.
+
+
+
+
+“Zeer goede en duidelijke inleiding!”                                                     “Er staat dat U de scheiding aanvraagt
+                                                                                            maar later staat er dan de advocaat dit
+“Erg duidelijk.”                                                                            doet.”
+
+“Goed om te weten dat het pas definitief is                                              “De titel van de eerste alinea is gelijk aan
+  als het in het register staat.”                                                           die van de gehele tekst.”
+
+“Begrijpelijke tekst.”                                                                    “Scheiding van tafel en bed, nog nooit van
+                                                                                          gehoord.”
+
+                                                                                          “Wat doet de advocaat eigenlijk allemaal in
+                                                                                            dit proces? Dit wordt mij niet duidelijk.”
+
+                                                                                          “Ik zie de tekst liever als volgt ingedeeld: a)
+                                                                                            samen een scheiding aanvragen, b) alleen
+                                                                                            een scheiding aanvragen.”
+
+                                                                                          “Kan het niet persoonlijker worden ver­
+                                                                                            woord door te spreken over uwadvocaat
+                                                                                            en uwscheiding?”
+
+
+
+29 | Themaonderzoek Taalniveaus
+Scheiden: de B1-versie bevat te veel moeilijke woorden en lange zinnen. Daarnaast wordt gevraagd naar
+verwijzingen voor meer informatie en voorbeelden.
+
+                                              Scheiden B1
+                                              In totaal zijn 77% van de duimpjes groen
+                                              en 23% rood/oranje.
+
+
+
+
+“De tekst geeft voor mij duidelijk aan hoe                                              “Zou heel goed zijn om aan te geven wat
+  het moet worden aangevraagd.”                                                            scheiding van tafel en bed betekent.”
+
+“Fijn om te weten.”                                                                      “Opeens het woord ‘ontbinding’, wat wordt
+                                                                                           hier mee bedoeld?”
+“Heel duidelijk allemaal.”
+                                                                                         “Te veel tekst en te lange zinnen als je het
+“Helder wat het inhoudt.”                                                                mij vraagt.”
+
+                                                                                         “Ik zou het prettig hebben gevonden als er
+                                                                                           onderscheid was gemaakt tussen het
+                                                                                           samen of alleen aanvragen van de
+                                                                                           scheiding.”
+
+                                                                                         “Ik vind de informatiedichtheid echt te
+                                                                                           groot, zeker voor onervaren lezers.”
+
+                                                                                         “Is het niet mogelijk om een verwijzing toe
+                                                                                           te voegen waar een verzoekschrift te
+                                                                                           vinden is?”
+
+
+
+30 | Themaonderzoek Taalniveaus
+Thuisquarantaine: De B1-versie over thuisquarantaine krijgt relatief veel onvoldoendes.
+Voornamelijk  omdat
+ Thuisquarantaine:     het doorover
+                   De B1-versie deze  mensen als onduidelijk
+                                    thuisquarantaine                 en onoverzichtelijk
+                                                     krijgt relatief veel                 wordt ervaren
+                                                                          onvoldoendes. Voornamelijk
+ omdat het door deze mensen als onduidelijk en onoverzichtelijk wordt ervaren
+                                                                 Thuisquarantaine (toelichting op gegeven onvoldoende)
+
+                    A2                        B1                  A2
+                                                                Thuisquarantaine (toelichting op gegeven onvoldoende)
+                                                                 “Bevat vele onduidelijkheden ­ onlogische volgordes en/of
+                                                                 stijlvormen die sterk verwarrend kunnen werken.”
+                                                                 A2
+                                                                 “Bevat vele onduidelijkheden onlogische volgordes en/of stijl­
+                                                                   “Het
+                                                                  vormenvoelt
+                                                                          dieals een hak
+                                                                              sterk        op de tak
+                                                                                    verwarrend       tekst.
+                                                                                                kunnen      Niet alle zinnen sluiten goed
+                                                                                                        werken.”
+                                                                  op elkaar aan in de stukjes.”
+                                                                 “Het voelt als een hak op de tak tekst. Niet alle zinnen sluiten
+                                                                   B1
+                                                                   goed
+                                                                 op  elkaar
+                                                                   “Het lijkt aan
+                                                                              of ikinopde3stukjes.”
+                                                                                           manieren een bericht krijg ­ die steeds een ander
+                                                                  verhaal vertellen.”
+                                                                 B1
+                                                                 “Het lijkt
+                                                                  “Veel   teofveel
+                                                                               ik op 3 ­ te
+                                                                                       manieren
+                                                                                   tekst    veeleen bericht krijg
+                                                                                                 moeilijke        die steeds een
+                                                                                                           woorden.    Onoverzichtelijk.”
+    7% heeft de tekst met            12% heeft de tekst met      ander verhaal vertellen.”
+ een onvoldoende beoordeeld        een onvoldoende beoordeeld     “Een tekst van de overheid moet meteen duidelijk zijn ­ dus die
+                                                                  moettejeveel
+                                                                 “Veel     niettekst
+                                                                                een te
+                                                                                     paar keer
+                                                                                       veel    hoeven
+                                                                                            moeilijke   doorlezen om
+                                                                                                      woorden.       goed te begrijpen.”
+                                                                                                               Onoverzichtelijk.”
+
+                                                                   “Onduidelijk
+                                                                 “Een  tekst vanwat
+                                                                                   de echt  moet
+                                                                                      overheid    of wat
+                                                                                                moet     aanbevolen
+                                                                                                      meteen           wordt.
+                                                                                                              duidelijk zijn dusOok
+                                                                                                                                 die weer
+                                                                   teveelje niet een
+                                                                   moet    regels/richtlijnen
+                                                                                     paar keerenhoeven
+                                                                                                 tegelijk ook te vaag
+                                                                                                        doorlezen  om van
+                                                                                                                        goedwat
+                                                                                                                              te er wel en
+                                                                   niet onder valt.”
+                                                                   begrijpen.”
+
+                                                                 “Onduidelijk wat echt moet of wat aanbevolen wordt. Ook weer
+                                                                                                                                             31
+                                                                   teveel regels/richtlijnen en tegelijk ook te vaag van wat er wel
+                                                                   en niet onder valt.”
+
+
+
+
+ 31 | Themaonderzoek Taalniveaus
+Thuisquarantaine: de onduidelijkheid in de A2-versie komt voornamelijk door het woord ‘misschien’ en de
+getoonde uitzonderingen aan het einde van de tekst
+
+                                                Thuisquarantaine A2
+                                                In totaal zijn 60% van de duimpjes groen
+                                                en 40% rood/oranje.
+
+
+
+
+“Onder het tweede kopje is het duidelijke                                                 “Te veel informatie in de eerste alinea.”
+  taal!”
+                                                                                           “Wees duidelijk: geen MISSCHIEN.”
+“Ik vind de opsommingen nuttig.”
+                                                                                           “Nadat er in deze tekst telkens wordt
+“Zeer duidelijk omschreven, behoeft geen                                                    verteld wat niet mag, staat er onderaan
+  verdere toelichting.”                                                                      opeens dat je in sommige gevallen wel
+                                                                                             weer naar je werk (notabene) mag gaan.
+“Duidelijke uitleg wanneer je wel of niet in                                                Dit ontkracht de rest.”
+  quarantaine moet.”
+                                                                                           “Bij welke kleur moet ik nou in quarantai­
+“Duidelijk en laagdrempelig geschreven.”                                                     ne? En wat betekent deze kleur precies?”
+
+                                                                                           “Moet je nou ook thuisblijven als je negatief
+                                                                                             getest bent?”
+
+                                                                                           “Het woordje ‘misschien’ in de eerste
+                                                                                             alinea en het woordje ‘ook’ in de laatste
+                                                                                             zorgen voor ruimte/verwarring.”
+
+
+
+
+32 | Themaonderzoek Taalniveaus
+Thuisquarantaine: ook in de B1-versie wordt de vrijblijvendheid van de boodschap als onduidelijk
+ervaren, daarbij worden de lange zinnen en soms moeilijke woorden negatief beoordeeld
+
+                                             Thuisquarantaine B1
+                                             In totaal zijn 61% van de duimpjes groen
+                                             en 39% rood/oranje.
+
+
+
+
+                                                                                        “De boodschap aan het einde is erg dub­
+“Duidelijk wat je wel en niet mag doen.”                                                 bel. Dan mag het opeens wel? Ook als je
+                                                                                         corona hebt?”
+“Ik vind de opsomming duidelijk.”
+                                                                                        “Wat is BZ? En kan er een link bij?”
+“Duidelijk dat er uitzonderingen mogelijk
+  zijn, en heel logisch als het om een                                                  “Wat is het verschil tussen quarantaine en
+  begrafenis gaat.”                                                                       thuisblijven, of is die er niet?”
+
+                                                                                        “Er staat: altijd in quarantaine, en dan
+                                                                                          onderaan de tekst toch nog uitzonderingen.”
+
+                                                                                        “Voor een begrafenis begrijp ik de uitzon­
+                                                                                          dering maar voor werk totaal niet. Of zijn
+                                                                                          er goede voorbeelden voor te geven?”
+
+                                                                                        “MOET je in quarantaine of GA/MAG je in
+                                                                                          quarantaine? Lijkt vrijblijvend op deze
+                                                                                          manier.”
+
+                                                                                        “Wat een lange zinnen zeg, ik heb het drie
+                                                                                          keer moeten lezen.”
+
+33 | Themaonderzoek Taalniveaus
+Sociale huur: de A2-versie over sociale huur krijgt meer onvoldoendes dan de B1-versie
+
+
+ Sociale huur: de A2-versie over sociale huur krijgt meer onvoldoendes dan de B1-versie
+                                                                 Sociale huur (toelichting op gegeven onvoldoende)
+
+                    A2                        B1                  A2
+                                                                Sociale huur (toelichting op gegeven onvoldoende)
+                                                                 “Ik ben een leek en vond de tekst moeilijk. Weet nu nog niet wat
+                                                                 voor mij van toepassing zou zijn.”
+                                                                 A2
+                                                                 “Ik ben een leek en vond de tekst moeilijk. Weet nu nog niet wat
+                                                                   “Onduidelijk
+                                                                   voor mij van wat nu precies
+                                                                                toepassing      bedoeld met inkomen ­ wat dus voor mij
+                                                                                           zou zijn.”
+                                                                  van toepassing is.”
+                                                                 “Onduidelijk wat nu precies bedoeld met inkomen -wat dus voor
+                                                                   “Devan
+                                                                   mij tekst is redelijkis.”
+                                                                          toepassing      complex opgezet. Dit is juist bedoeld voor
+                                                                   mensen die wellicht wat minder geletterd zijn. Ik zou een soort
+                                                                   flowchart/
+                                                                 “D e tekst is infographic maken
+                                                                                redelijk complex   om hetDitteisversimpelen.”
+                                                                                                 opgezet.        juist bedoeld voor
+                                                                  mensen die wellicht wat minder geletterd zijn. Ik zou een soort
+                                                                  B1
+                                                                  flowchart/ infographic maken om het te versimpelen.”
+   13% heeft de tekst met             8% heeft de tekst met        “De informatie springt van de hak op de tak. Het is geen makkelijk
+ een onvoldoende beoordeeld        een onvoldoende beoordeeld    B1te doorlopen stappenplan. Bij welke instantie moet ik beginnen
+                                                                 “D e informatie
+                                                                   Gemeente    of springt van de hak op de tak. Het is geen makke­
+                                                                                  Corporatie?”
+                                                                  lijk te doorlopen stappenplan. Bij welke instantie moet ik begin­
+                                                                  nen
+                                                                  “Voor Gemeente
+                                                                           mij is hetofbericht
+                                                                                        Corporatie?”
+                                                                                               niet duidelijk en niet op de juiste manier
+                                                                  gestructureerd.”
+                                                                 “Voor mij is het bericht niet duidelijk en niet op de juiste manier
+                                                                 gestructureerd.”
+
+                                                                                                                                            34
+
+
+
+
+ 34 | Themaonderzoek Taalniveaus
+Sociale huur: de gebruikte termen en de hoeveelheid aan informatie maakt dat de A2-versie als moeilijk
+wordt ervaren
+
+                                           Sociale huur A2
+                                           In totaal zijn 64% van de duimpjes groen
+                                           en 36% rood/oranje.
+
+
+
+
+“Kort, bondig, duidelijk.”                                                            “Wat is woningcorporatie?”
+
+“Duidelijk aangegeven wat de voorwaar­                                               “Ik zou van de tabel echt een flowchart
+  den zijn.”                                                                            maken, met de stappen en hoe je tot jouw
+                                                                                        inkomen komt.”
+“De opsomming vind ik duidelijk en goed
+  werken.”                                                                            “Om dit te begrijpen vraagt dit wel een
+                                                                                        goede leesvaardigheid en bepaald ontwik­
+“De introductie is erg duidelijk                                                       kelingsniveau –vooral de tabel met inko­
+  geschreven.”                                                                          men en percentages.”
+
+                                                                                      “Ik zou met meer linkjes werken naar extra
+                                                                                        informatie, voor termen als huisvestigings­
+                                                                                        vergunning, woon­corporaties, berekenen
+                                                                                        totale inkomen etc.”
+
+                                                                                      “Inkomensgrenzen, inkomen, gezamenlijk
+                                                                                        inkomen, dividend, etc. allemaal moeilijke
+                                                                                        begrippen vind ik.”
+
+
+
+
+35 | Themaonderzoek Taalniveaus
+Sociale huur: ook de B1-versie mag voor sommigen meer in jip-en-janneketaalworden geschreven en de
+wens daarbij (geldt ook voor de A2-versie) om via linkjes door te verwijzen naar meer info
+
+                                              Sociale huur B1
+                                              In totaal zijn 65% van de duimpjes groen
+                                              en 35% rood/oranje.
+
+
+
+
+“Inleiding is helder en lekker kort en
+krachtig.”                                                                               “Veel van de bullets hebben te lange
+                                                                                           zinnen waardoor het onduidelijker wordt.”
+“Het is gewoon heel duidelijk uitgelegd.”
+                                                                                         “Helemaal onderaan met alle getallen,
+“Heel overzichtelijk wordt stapsgewijs                                                    wordt het echt te langdradig en moeilijk.”
+  aangegeven wat je moet doen om in
+  aanmerking te komen voor een sociale                                                   “Onduidelijk hoe en waar je je kunt inschrij­
+  huurwoning. De info over het inkomen                                                    ven. Link naar informatie, ook graag over
+  beantwoordt de belangrijkste eerste vraag                                               contracten en toeslagen toevoegen.”
+  die in je opkomt.”
+                                                                                         “Wat is een huisvestigingsvergunning?”
+
+                                                                                         “Mag allemaal wel wat meer jip-en-janne­
+                                                                                           ke-taal als je het mij vraagt.”
+
+                                                                                         “Veel van de informatie in deze tekst
+                                                                                           behoeft verdere uitleg of een link naar een
+                                                                                           site waar de verdere informatie op te
+                                                                                           vinden is.”
+
+
+
+36 | Themaonderzoek Taalniveaus
+Nieuwe coronamaatregelen: de B1-versie over de nieuwe coronamaatregelen krijgt de meeste
+onvoldoendes van alle tien de teksten        Nieuwe coronamaatregelen (toelichting op gegeven onvoldoende)
+ Nieuwe coronamaatregelen: de B1-versie over de nieuwe coronamaatregelen krijgt de meeste
+ onvoldoendes van alle tien de teksten               A2
+                                                                “Heel weinig tekst en weinig toelichting. Bepaalde groepen worden
+                                                                wel toegelicht en andere groepen weer niet.”
+                    A2                        B1                Nieuwe coronamaatregelen (toelichting op gegeven
+                                                                onvoldoende)
+                                                                “Leek wel jip­en­janneke­taal.”
+
+                                                                “IkA2
+                                                                    vind het begin nogal beschuldigend en de toon daarom niet fijn.”
+                                                                 “Heel weinig tekst en weinig toelichting. Bepaalde groepen
+                                                                B1worden wel toegelicht en andere groepen weer niet.”
+                                                                “Ik vind sommige aantallen nogal verwarrend. Er mogen maximaal 4
+                                                                  “Leek wel
+                                                                mensen      bij jip-en-janneke-taal.”
+                                                                                elkaar zijn buiten of in een bioscoop ­ maar dan telt dat
+                                                                weer niet voor huishoudens. Maar binnen mogen er maar 3 mensen
+                                                                op“Ikbezoek
+                                                                      vind hetkomen.
+                                                                                  begin nogal
+                                                                                         En je beschuldigend en de toon
+                                                                                               mag met 30 mensen        daarom
+                                                                                                                     ergens     niet zijn ­
+                                                                                                                            binnen
+                                                                  fijn.” niet in sportkantines?”
+                                                                maar
+
+    8% heeft de tekst met            13% heeft de tekst met       B1 schept veel onduidelijkheid over de hoeveelheid mensen in een
+                                                                “Het
+ een onvoldoende beoordeeld        een onvoldoende beoordeeld     “Ik vind
+                                                                ruimte      sommige
+                                                                          wat          aantallen
+                                                                              betreft thuis      nogal ­verwarrend.
+                                                                                            en elders     ongeacht de Er grote
+                                                                                                                         mogen   maxi­
+                                                                                                                               van de ruimte
+                                                                    maal
+                                                                dus.”     4 mensen   bij elkaar zijn buiten of in een bioscoop  - maar
+                                                                  dan telt dat weer niet voor huishoudens. Maar binnen mogen
+                                                                  er maar
+                                                                “Het is een3chaotische
+                                                                             mensen op tekst
+                                                                                          bezoek  komen.mag
+                                                                                               ­ verder    En je
+                                                                                                              je mag
+                                                                                                                 eerstmet  30 men­
+                                                                                                                       in een ruimte met 4
+                                                                  sen  ergens  binnen zijn - maar niet in sportkantines?”
+                                                                personen zijn en een zin later met 30 ­ sommige dingen zijn
+                                                                onduidelijk.”
+                                                                 “Het schept veel onduidelijkheid over de hoeveelheid mensen in
+                                                                   een ruimte wat betreft thuis en elders -ongeacht de grote van
+                                                                   de ruimte dus.”                                                             37
+
+
+                                                                 “Het is een chaotische tekst - verder mag je eerst in een ruimte
+                                                                   met 4 personen zijn en een zin later met 30 -sommige dingen
+                                                                   zijn onduidelijk.”
+
+
+
+
+ 37 | Themaonderzoek Taalniveaus
+Nieuwe coronamaatregelen: de verbeterpunten hebben voornamelijk betrekking op de formulering en
+hoeveelheid van regels die worden getoond
+
+                                              Nieuwe coronamaatregelen A2
+                                              In totaal zijn 65% van de duimpjes groen
+                                              en 35% rood/oranje.
+
+
+
+
+“Duidelijk omschreven vanaf wanneer en                                                  “De inleiding komt heel kinderlijk op mij
+  hoe lang de regels gelden.”                                                              over. Voel me daardoor niet
+                                                                                           aangesproken.”
+“Lekker duidelijk en kort omschreven
+  allemaal.”                                                                             “Door de grote hoeveelheid aantallen, en
+                                                                                           het gaat twee keer over kinderen, wordt
+“Duidelijk en overzichtelijk.”                                                             het onduidelijk.”
+
+“To the point en dat is ook belangrijk bij                                              “In welke ruimtes tellen kinderen nou wel
+  zo’n onderwerp.”                                                                         of niet mee?”
+
+                                                                                         “Ik zie ‘binnen’ ook als thuis, wat het
+                                                                                           verwarrend maakt. Geef duidelijker aan
+                                                                                           wat voor een soort plek er wordt bedoeld.”
+
+                                                                                         “Een ‘ruimte binnen’ kan toch ook thuis
+                                                                                           zijn?”
+
+                                                                                         “In de laatste zin staat ‘registreren’, wat
+                                                                                           valt hier allemaal onder?”
+
+
+
+38 | Themaonderzoek Taalniveaus
+Nieuwe coronamaatregelen: hetzelfde is het geval voor de B1-versie waarbij sommigen aangeven dat ze
+de zinnen/teksten te lang vinden waardoor het omslachtig aanvoelt
+
+                                               Nieuwe coronamaatregelen B1
+                                               In totaal zijn 62% van de duimpjes groen
+                                               en 38% rood/oranje.
+
+
+
+
+“De puntsgewijze opsomming is duidelijk.”                                                 “Wat is een ruimte? Welke panden en
+                                                                                            ruimtes vallen hieronder –een sportkan­
+“De tekst is goed maar de regels zijn                                                       tine is toch ook een ruimte?”
+onlogisch.”
+                                                                                          “Hoe zit het nou met de kinderen? Soms
+“Alles is duidelijk.”                                                                       wel en soms geen uitzondering?”
+
+“Kort en krachtige inleiding met een duide­                                              “Leest moeilijk.”
+ lijke doelomschrijving.”
+                                                                                          “Veel te lange teksten.”
+
+                                                                                          “De eerste zin zou ook gewoon kunnen
+                                                                                            beginnen met De Overheid…”
+
+                                                                                          “De derde bullet is echt heel lastig.”
+
+                                                                                          “Erg omslachtig en veel.”
+
+
+
+
+39 | Themaonderzoek Taalniveaus
+Bijlage
+Onderzoeksspecificaties
+
+
+                     Doelgroep                                                Online methode
+                     Nederlanders van 18 jaar en ouder, representatief op     Voor dit onderzoek is gebruikt gemaakt van een online
+                     geslacht, leeftijd (18+), regio en opleidingsniveau en   vragenlijst (CAWI: computer assisted web intervie-
+                     huishoudgrootte.                                         wing). Respondenten ontvingen een e-mail met daarin
+                                                                              informatie over het onderzoek en een link naar de
+                                                                              online vragenlijst.
+
+                      Steekproefbron
+                      De steekproefbron is getrokken uit ons                  Vragenlijst
+                      consumenten­panel.                                      De vragenlijst is opgesteld door Kantar. Op de volgen-
+                                                                              de slides vindt u de tekstafbeeldingen die voor dit
+                                                                              onderzoek zijn gebruikt. De gemiddelde invulduur
+                                                                              bedroeg 6 minuten.
+                     Respons
+                     In totaal zijn bruto n= 5.200 respondenten uitgeno-
+                     digd. Uiteindelijk hebben n= 2.089 respondenten
+                     deelgenomen (respons 40%). De netto aantallen zijn       Veldwerkperiode
+                     per subgroep als volgt: A2 totaal n=1.040; B1 totaal     Het veldwerk heeft gelopen van 27 oktober t/m 1
+                     n=1.049; Schoolvakanties A2 n=209/ B1 n=200;             november 2020.
+                     Scheiden A2 n=211/ B1 n=212; Thuisquarantaine A2
+                     n=212/ B1 n=234; Sociale huur A2 n=201/ B1 n=202;
+                     Nieuwe coronamaatregelen A2 n=207/ B1 n=201.
+
+
+
+
+41 | Themaonderzoek Taalniveaus
+Vragenlijst input: Vakantie buiten de schoolvakantie om
+
+
+Taalniveau A2                                             Taalniveau B1
+
+
+
+
+42 | Themaonderzoek Taalniveaus
+Vragenlijst input: Echtscheiding
+
+
+Taalniveau A2                      Taalniveau B1
+
+
+
+
+43 | Themaonderzoek Taalniveaus
+Vragenlijst input: Thuisquarantaine
+
+
+Taalniveau A2                         Taalniveau B1
+
+
+
+
+44 | Themaonderzoek Taalniveaus
+Vragenlijst input: Sociale huurwoning
+
+
+Taalniveau A2                           Taalniveau B1
+
+
+
+
+45 | Themaonderzoek Taalniveaus
+Vragenlijst input: Nieuwe coronamaatregelen
+
+
+Taalniveau A2                                 Taalniveau B1
+
+
+
+
+46 | Themaonderzoek Taalniveaus
+Dit is een publicatie van:
+
+
+Ministerie van Algemene Zaken
+Binnenhof 19 | 2513 AA Den Haag
+Postbus 20001 | 2500 EA Den Haag
+T +31 (0)70 356 41 00
+www.rijksoverheid.nl
+
+
+Juli 2021
+

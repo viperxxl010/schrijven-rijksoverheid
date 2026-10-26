@@ -1,0 +1,15 @@
+{
+  "name": "schrijven-rijksoverheid",
+  "description": "Skills voor schrijven zoals de Rijksoverheid het afspreekt (Taalkompas): begrijpelijke taal op B1, eenvoudige taal op A2, burgerbrief, Kamerbrief, beslisnota, inclusief schrijven en teksten testen, gebaseerd op communicatierijk.nl en communicatiekompas.nl.",
+  "owner": {
+    "name": "Aigenwijs",
+    "url": "https://aigenwijs.com"
+  },
+  "plugins": [
+    {
+      "name": "schrijven-rijksoverheid",
+      "source": "./plugins/schrijven-rijksoverheid",
+      "description": "Schrijven zoals de Rijksoverheid het afspreekt (Taalkompas): tekst opzetten en structureren, begrijpelijke taal op B1, burgerbrief, Kamerbrief, beslisnota, inclusief schrijven, eenvoudige taal op A2 en teksten testen bij lezers, gebaseerd op communicatierijk.nl en communicatiekompas.nl."
+    }
+  ]
+}

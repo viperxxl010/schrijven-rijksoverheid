@@ -1,0 +1,34 @@
+{
+  "name": "schrijven-rijksoverheid",
+  "version": "0.2.0",
+  "description": "Schrijven zoals de Rijksoverheid het afspreekt (Taalkompas): tekst opzetten en structureren, begrijpelijke taal op B1, burgerbrief, Kamerbrief, beslisnota, inclusief schrijven, eenvoudige taal op A2 en teksten testen bij lezers, gebaseerd op communicatierijk.nl en communicatiekompas.nl.",
+  "author": {
+    "name": "Aigenwijs",
+    "url": "https://aigenwijs.com"
+  },
+  "homepage": "https://github.com/viperxxl010/schrijven-rijksoverheid",
+  "repository": "https://github.com/viperxxl010/schrijven-rijksoverheid",
+  "license": "CC0-1.0",
+  "keywords": [
+    "schrijven",
+    "taalkompas",
+    "begrijpelijke taal",
+    "duidelijke taal",
+    "b1",
+    "a2",
+    "taalniveau",
+    "burgerbrief",
+    "kamerbrief",
+    "beslisnota",
+    "inclusief schrijven",
+    "genderneutraal",
+    "laaggeletterdheid",
+    "eenvoudige taal",
+    "tussenkopjes",
+    "tekststructuur",
+    "teksten testen",
+    "rijksoverheid",
+    "overheidscommunicatie",
+    "redactie"
+  ]
+}

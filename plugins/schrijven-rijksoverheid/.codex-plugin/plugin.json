@@ -1,0 +1,49 @@
+{
+  "name": "schrijven-rijksoverheid",
+  "version": "0.2.0",
+  "description": "Schrijven zoals de Rijksoverheid het afspreekt (Taalkompas): tekst opzetten en structureren, begrijpelijke taal op B1, burgerbrief, Kamerbrief, beslisnota, inclusief schrijven, eenvoudige taal op A2 en teksten testen bij lezers, gebaseerd op communicatierijk.nl en communicatiekompas.nl.",
+  "author": {
+    "name": "Aigenwijs",
+    "url": "https://aigenwijs.com"
+  },
+  "homepage": "https://github.com/viperxxl010/schrijven-rijksoverheid",
+  "repository": "https://github.com/viperxxl010/schrijven-rijksoverheid",
+  "license": "CC0-1.0",
+  "keywords": [
+    "schrijven",
+    "taalkompas",
+    "begrijpelijke taal",
+    "duidelijke taal",
+    "b1",
+    "a2",
+    "taalniveau",
+    "burgerbrief",
+    "kamerbrief",
+    "beslisnota",
+    "inclusief schrijven",
+    "genderneutraal",
+    "laaggeletterdheid",
+    "eenvoudige taal",
+    "tussenkopjes",
+    "tekststructuur",
+    "teksten testen",
+    "rijksoverheid",
+    "overheidscommunicatie",
+    "redactie"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Schrijven bij de Rijksoverheid",
+    "shortDescription": "Schrijven zoals de Rijksoverheid het afspreekt (Taalkompas).",
+    "longDescription": "Acht skills voor iedereen die bij de overheid teksten schrijft, langs het Taalkompas: tekst opzetten en structureren (schrijfplan, structuurschema, tussenkopjes), tekst begrijpelijk herschrijven (taalniveau B1), burgerbrief schrijven, Kamerbrief schrijven, beslisnota schrijven, inclusief schrijven, eenvoudige taal op A2 (met het vertaalbeleid van de Rijksoverheid) en tekst testen en controleren (checklists, lezerspanel, gebruik van AI). Elke skill werkt met een leestabel naar de meegeleverde bronteksten van communicatierijk.nl en communicatiekompas.nl (CC0).",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": [
+      "Herschrijf deze ambtelijke alinea naar begrijpelijke taal op B1: ...",
+      "Schrijf een antwoord op deze brief van een burger: ...",
+      "Zet deze nota om in een concept-Kamerbrief: ..."
+    ],
+    "developerName": "Aigenwijs",
+    "websiteURL": "https://github.com/viperxxl010/schrijven-rijksoverheid"
+  }
+}
