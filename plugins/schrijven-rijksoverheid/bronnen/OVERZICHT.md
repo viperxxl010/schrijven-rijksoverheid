@@ -3,7 +3,7 @@
 Alle bestanden zijn kopieën (of tekstversies van PDF's) uit de Communicatiekompas-kennisbank,
 met hetzelfde relatieve pad als in `bronnen/` van de kennisbank.
 
-## tekst-opzetten-en-structureren
+## tekst-opzetten
 
 - `bronnen/communicatierijk/vakkennis/taalkompas.md` — Taalkompas | CommunicatieRijk
 - `bronnen/communicatierijk/vakkennis/taalkompas/boodschap.md` — Inhoud van je tekst | CommunicatieRijk
@@ -28,7 +28,7 @@ met hetzelfde relatieve pad als in `bronnen/` van de kennisbank.
 - `bronnen/communicatierijk/vakkennis/rijkswebsites/verplichte-richtlijnen/portable-document-format-pdf.md` — Portable Document Format (pdf) | CommunicatieRijk
 - `bronnen/communicatierijk/vakkennis/uitgangspunten-en-organisatie/rijkshuisstijl.md` — Rijkshuisstijl | CommunicatieRijk
 
-## b1-begrijpelijk-schrijven
+## tekst-b1
 
 - `bronnen/communicatierijk/vakkennis/taalkompas/stijl.md` — Stijl | CommunicatieRijk
 - `bronnen/communicatierijk/vakkennis/taalkompas/stijl/taalniveaus.md` — Taalniveaus | CommunicatieRijk
@@ -49,7 +49,7 @@ met hetzelfde relatieve pad als in `bronnen/` van de kennisbank.
 - `bronnen/communicatiekompas/hulpmiddelen/teksten-schrijven.md` — Teksten schrijven
 - `bronnen/communicatierijk/actueel/af-en-toe-een-punt-zetten-mag-best.md` — Af en toe een punt zetten mag best | CommunicatieRijk
 
-## burgerbrief-schrijven
+## tekst-burgerbrief
 
 - `bronnen/communicatierijk/vakkennis/taalkompas/tekstsoorten/burgerbrief.md` — Burgerbrief | CommunicatieRijk
 - `bronnen/communicatierijk/vakkennis/taalkompas/tekstsoorten/burgerbrief/aandacht-voor-de-lezer.md` — Aandacht voor de lezer | CommunicatieRijk
@@ -61,21 +61,21 @@ met hetzelfde relatieve pad als in `bronnen/` van de kennisbank.
 - `bronnen/communicatierijk/vakkennis/taalkompas/stijl/persoonlijke-taal.md` — Persoonlijke taal | CommunicatieRijk
 - `bronnen/communicatierijk/vakkennis/taalkompas/inclusief-schrijven/genderbewust.md` — Genderbewust | CommunicatieRijk
 
-## kamerbrief-schrijven
+## tekst-kamerbrief
 
 - `bronnen/communicatierijk/vakkennis/taalkompas/tekstsoorten/kamerbrief.md` — Kamerbrief | CommunicatieRijk
 - `bronnen/communicatierijk/vakkennis/taalkompas/tekstsoorten/kamerbrief/checklist-kamerbrief.md` — Checklist kamerbrief | CommunicatieRijk
 - `bronnen/communicatierijk/vakkennis/taalkompas/tekstsoorten/kamerbrief/voorbeeld-van-een-kamerbrief.md` — Voorbeeld van een kamerbrief | CommunicatieRijk
 - `bronnen/communicatierijk/vakkennis/taalkompas/tekstsoorten/beslisnota.md` — Beslisnota | CommunicatieRijk
 
-## beslisnota-schrijven
+## tekst-beslisnota
 
 - `bronnen/communicatierijk/vakkennis/taalkompas/tekstsoorten/beslisnota.md` — Beslisnota | CommunicatieRijk
 - `bronnen/communicatierijk/vakkennis/taalkompas/tekstsoorten/beslisnota/checklist-beslisnota.md` — Checklist van een beslisnota | CommunicatieRijk
 - `bronnen/communicatierijk/vakkennis/taalkompas/tekstsoorten/beslisnota/voorbeeld-van-een-beslisnota.md` — Voorbeeld van een beslisnota | CommunicatieRijk
 - `bronnen/communicatierijk/vakkennis/taalkompas/tekstsoorten/kamerbrief.md` — Kamerbrief | CommunicatieRijk
 
-## inclusief-schrijven
+## tekst-inclusief
 
 - `bronnen/communicatierijk/vakkennis/taalkompas/inclusief-schrijven.md` — Inclusief schrijven | CommunicatieRijk
 - `bronnen/communicatierijk/vakkennis/taalkompas/inclusief-schrijven/mens-centraal.md` — Mens centraal | CommunicatieRijk
@@ -87,7 +87,7 @@ met hetzelfde relatieve pad als in `bronnen/` van de kennisbank.
 - `bronnen/communicatierijk/vakkennis/uitgangspunten-en-organisatie/inclusieve-communicatie/tips-voor-inclusieve-communicatie/tips-voor-inclusief-taalgebruik.md` — Tips voor inclusief taalgebruik | CommunicatieRijk
 - `bronnen/communicatierijk/vakkennis/uitgangspunten-en-organisatie/inclusieve-communicatie/tips-voor-inclusieve-communicatie/tips-voor-inclusief-beeldgebruik.md` — Tips voor inclusief beeldgebruik | CommunicatieRijk
 
-## a2-eenvoudig-schrijven
+## tekst-a2
 
 - `bronnen/communicatierijk/documenten/factsheet-schrijven-voor-laaggeletterden/factsheet-schrijven-voor-laaggeletterden.md` — Factsheet schrijven voor laaggeletterden | CommunicatieRijk
 - `bronnen/communicatierijk/vakkennis/taalkompas/stijl/eenvoudige-taal.md` — Eenvoudige taal | CommunicatieRijk
@@ -103,7 +103,7 @@ met hetzelfde relatieve pad als in `bronnen/` van de kennisbank.
 - `bronnen/communicatierijk/documenten/vertaalbeleid-rijksoverheid/Vertaalbeleid-Rijksoverheid.txt` — Vertaalbeleid+Rijksoverheid.pdf (tekstversie)
 - `bronnen/communicatierijk/actueel/3-tips-voor-betere-communicatie-met-laaggeletterden.md` — 3 tips voor betere communicatie met laaggeletterden | CommunicatieRijk
 
-## tekst-testen-en-controleren
+## tekst-testen
 
 - `bronnen/communicatierijk/vakkennis/taalkompas/teksten-testen/teksten-testen.md` — Teksten testen | CommunicatieRijk
 - `bronnen/communicatierijk/vakkennis/taalkompas/hulpmiddelen-gebruiken.md` — Hulpmiddelen gebruiken | CommunicatieRijk

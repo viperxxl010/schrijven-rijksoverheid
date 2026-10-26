@@ -12,20 +12,20 @@ Rijksoverheid, de Dienst Publiek en Communicatie of het Communicatiekompas.
 
 ## Plugins
 
-### Schrijven bij de Rijksoverheid (`schrijven-rijksoverheid`, versie 0.2.0)
+### Schrijven bij de Rijksoverheid (`schrijven-rijksoverheid`, versie 0.3.0)
 
 Schrijven zoals de Rijksoverheid het afspreekt (Taalkompas): tekst opzetten en structureren, begrijpelijke taal op B1, burgerbrief, Kamerbrief, beslisnota, inclusief schrijven, eenvoudige taal op A2 en teksten testen bij lezers, gebaseerd op communicatierijk.nl en communicatiekompas.nl.
 
 Skills:
 
-- `a2-eenvoudig-schrijven`: Eenvoudig schrijven op A2
-- `b1-begrijpelijk-schrijven`: Begrijpelijk schrijven op B1
-- `beslisnota-schrijven`: Beslisnota schrijven
-- `burgerbrief-schrijven`: Burgerbrief schrijven
-- `inclusief-schrijven`: Inclusief schrijven
-- `kamerbrief-schrijven`: Kamerbrief schrijven
-- `tekst-opzetten-en-structureren`: Tekst opzetten en structureren
-- `tekst-testen-en-controleren`: Tekst testen en controleren
+- `tekst-a2`: Eenvoudig schrijven op A2
+- `tekst-b1`: Begrijpelijk schrijven op B1
+- `tekst-beslisnota`: Beslisnota schrijven
+- `tekst-burgerbrief`: Burgerbrief schrijven
+- `tekst-inclusief`: Inclusief schrijven
+- `tekst-kamerbrief`: Kamerbrief schrijven
+- `tekst-opzetten`: Tekst opzetten en structureren
+- `tekst-testen`: Tekst testen en controleren
 
 Elke skill bevat een leestabel die verwijst naar de meegeleverde bronteksten in `bronnen/`.
 De agent leest die teksten bij gebruik; de skill geeft werkwijze, output en veelgemaakte fouten.

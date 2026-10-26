@@ -1,6 +1,6 @@
 ---
-name: a2-eenvoudig-schrijven
-description: "Use when iemand bij de Rijksoverheid een tekst moet schrijven of herschrijven voor lezers die moeite hebben met lezen, of moet beslissen over taalniveau of vertaling: taalniveau A2, 1F, eenvoudige taal, laaggeletterdheid, mensen die Nederlands als tweede taal leren, gelaagd aanbieden, beeldbrief, Taalniveau B1 te moeilijk, of de vraag of een tekst vertaald mag of moet worden in Engels, Arabisch, Turks, Pools of een andere taal (vertaalbeleid, 'niet vertalen, tenzij'). Ook bij 'maak hier A2 van', 'schrijf dit voor laaggeletterden', 'nog eenvoudiger dan B1', 'moeten we dit vertalen' of 'mag deze folder in het Engels'. Voor herschrijven naar B1 gebruik schrijven-rijksoverheid:b1-begrijpelijk-schrijven; voor een test met lezers schrijven-rijksoverheid:tekst-testen-en-controleren; voor onderzoek naar een doelgroep communicatieadvies:publieksonderzoek-opzetten."
+name: tekst-a2
+description: "Use when iemand bij de Rijksoverheid een tekst moet schrijven of herschrijven voor lezers die moeite hebben met lezen, of moet beslissen over taalniveau of vertaling: taalniveau A2, 1F, eenvoudige taal, laaggeletterdheid, mensen die Nederlands als tweede taal leren, gelaagd aanbieden, beeldbrief, Taalniveau B1 te moeilijk, of de vraag of een tekst vertaald mag of moet worden in Engels, Arabisch, Turks, Pools of een andere taal (vertaalbeleid, 'niet vertalen, tenzij'). Ook bij 'maak hier A2 van', 'schrijf dit voor laaggeletterden', 'nog eenvoudiger dan B1', 'moeten we dit vertalen' of 'mag deze folder in het Engels'. Voor herschrijven naar B1 gebruik schrijven-rijksoverheid:tekst-b1; voor een test met lezers schrijven-rijksoverheid:tekst-testen; voor onderzoek naar een doelgroep communicatieadvies:publieksonderzoek-opzetten."
 ---
 
 # Eenvoudig schrijven op A2
@@ -48,7 +48,7 @@ Niet in deze map: taalniveautoetsen en woordenlijsten per niveau, de communicati
 9. **Vergelijk met het origineel.** Leg origineel en A2-tekst naast elkaar. Loop elk feit, bedrag, termijn, voorwaarde, uitzondering en woord als 'kan', 'ten minste' of 'in beginsel' uit het origineel na. Noteer per element: gelijk, versimpeld, verplaatst naar de B1-laag of weg. Toets daarna elke zin van de A2-tekst: klopt hij voor elke lezer, ook voor de lezer op wie een weggelaten of verplaatste uitzondering van toepassing is? Klopt een zin voor een deel van de lezers niet, dan herstel je de zin.
 10. **Tel na.** Controleer elke zin op het aantal woorden en rapporteer de uitkomst. Tel titel, tussenkopjes en bullets apart en zeg hoe je hebt geteld. Schrijf niet 'deze tekst is A2' als gemeten feit.
 11. **Vertalen?** Uitgangspunt is 'niet vertalen, tenzij'. Loop de drie vragen van het afwegingskader in het beleid letterlijk na en geef de uitkomst per vraag. Bij de derde vraag noemt het kader alleen vertaling in het Engels; over andere talen zegt het kader niets. De keuze, de talen en het actueel houden zijn aan het beleidsverantwoordelijke departement; jij levert de afweging, niet het besluit.
-12. **Testen.** A2-teksten test je bij de lezers zelf: **REQUIRED SUB-SKILL:** `schrijven-rijksoverheid:tekst-testen-en-controleren`.
+12. **Testen.** A2-teksten test je bij de lezers zelf: **REQUIRED SUB-SKILL:** `schrijven-rijksoverheid:tekst-testen`.
 
 ## Output: dit lever je op
 

@@ -1,6 +1,6 @@
 ---
-name: inclusief-schrijven
-description: "Use when iemand bij de Rijksoverheid schrijft over of aan groepen mensen en de woordkeuze respectvol en neutraal moet zijn: gender en aanhef, non-binair, die of hen, functiebenamingen, beperking, leeftijd, seksuele oriëntatie, lhbtiqa+, huidskleur, herkomst en migratie, religie, opleidingsniveau, laaggeletterdheid, stereotypen in tekst of beeld, vacaturetekst, of de vraag of een woord nog kan. Ook bij 'is dit inclusief', 'check deze tekst op inclusief taalgebruik', 'hoe noem ik deze groep', 'mag ik allochtoon of laagopgeleid schrijven' of 'welke aanhef als ik het geslacht niet weet'. Voor taalniveau A2 gebruik schrijven-rijksoverheid:a2-eenvoudig-schrijven; voor begrijpelijke zinnen en woorden schrijven-rijksoverheid:b1-begrijpelijk-schrijven; voor de keuze van doelgroepen communicatieadvies:communicatiestrategie-bepalen."
+name: tekst-inclusief
+description: "Use when iemand bij de Rijksoverheid schrijft over of aan groepen mensen en de woordkeuze respectvol en neutraal moet zijn: gender en aanhef, non-binair, die of hen, functiebenamingen, beperking, leeftijd, seksuele oriëntatie, lhbtiqa+, huidskleur, herkomst en migratie, religie, opleidingsniveau, laaggeletterdheid, stereotypen in tekst of beeld, vacaturetekst, of de vraag of een woord nog kan. Ook bij 'is dit inclusief', 'check deze tekst op inclusief taalgebruik', 'hoe noem ik deze groep', 'mag ik allochtoon of laagopgeleid schrijven' of 'welke aanhef als ik het geslacht niet weet'. Voor taalniveau A2 gebruik schrijven-rijksoverheid:tekst-a2; voor begrijpelijke zinnen en woorden schrijven-rijksoverheid:tekst-b1; voor de keuze van doelgroepen communicatieadvies:communicatiestrategie-bepalen."
 ---
 
 # Inclusief schrijven
@@ -37,7 +37,7 @@ Niet in deze map: de Toolkit inclusie en andere externe woordenlijsten, de schri
 6. **Beleids- en wetstermen.** Staat een afgeraden term in een wet, regeling of statistiek waar de tekst naar verwijst, dan vervang je die niet stil. Meld het en leg de keuze voor aan de inhoudelijk verantwoordelijke.
 7. **Beeld.** Hoort er beeld bij: geen stereotypen, wel herkenbaarheid; zie de twee beeldbronnen.
 8. **Per wijziging verantwoorden.** Oude formulering, nieuwe formulering, uitgangspunt, bronbestand. Staat een term niet in de bron, zeg dat en geef een voorstel met voorbehoud.
-9. **Testen.** Het Taalkompas raadt aan de tekst voor te leggen aan mensen uit de groep zelf: **REQUIRED SUB-SKILL:** `schrijven-rijksoverheid:tekst-testen-en-controleren`.
+9. **Testen.** Het Taalkompas raadt aan de tekst voor te leggen aan mensen uit de groep zelf: **REQUIRED SUB-SKILL:** `schrijven-rijksoverheid:tekst-testen`.
 
 ## Output: dit lever je op
 

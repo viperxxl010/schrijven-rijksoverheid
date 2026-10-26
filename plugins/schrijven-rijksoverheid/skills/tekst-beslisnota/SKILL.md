@@ -1,6 +1,6 @@
 ---
-name: beslisnota-schrijven
-description: "Use when iemand bij de Rijksoverheid een nota aan een minister of staatssecretaris moet schrijven, opzetten of redigeren: beslisnota, nota ter besluitvorming, nota ter beslissing, nota bij een Kamerbrief, advies aan de bewindspersoon met opties, scenario's en risico's, of de vraag wat er openbaar wordt van een nota. Ook bij 'schrijf een beslisnota', 'maak een nota voor de minister', 'de nota is te lang' of 'wat hoort in de kernpunten'. Voor de brief aan de Kamer zelf gebruik schrijven-rijksoverheid:kamerbrief-schrijven; voor een communicatieadvies aan de opdrachtgever communicatieadvies:communicatieadvies-geven; voor een communicatieplan communicatieadvies:communicatieplan-schrijven."
+name: tekst-beslisnota
+description: "Use when iemand bij de Rijksoverheid een nota aan een minister of staatssecretaris moet schrijven, opzetten of redigeren: beslisnota, nota ter besluitvorming, nota ter beslissing, nota bij een Kamerbrief, advies aan de bewindspersoon met opties, scenario's en risico's, of de vraag wat er openbaar wordt van een nota. Ook bij 'schrijf een beslisnota', 'maak een nota voor de minister', 'de nota is te lang' of 'wat hoort in de kernpunten'. Voor de brief aan de Kamer zelf gebruik schrijven-rijksoverheid:tekst-kamerbrief; voor een communicatieadvies aan de opdrachtgever communicatieadvies:communicatieadvies-geven; voor een communicatieplan communicatieadvies:communicatieplan-schrijven."
 ---
 
 # Beslisnota schrijven
@@ -32,7 +32,7 @@ Niet in deze map: het notasjabloon van het eigen departement, de regels van de e
 6. **Kernpunten.** Als bullets: doel van het besluit, relevante feiten, argumenten voor en tegen, belangrijkste alternatieve opties of scenario's, gevolgen en risico's, met een duidelijk advies welke optie de beste is en waarom.
 7. **Toelichting.** Alleen wat nodig is, zo nodig onder de subkoppen Politieke context, Financiële en juridische overwegingen, Krachtenveld, Strategie, Uitvoering. De subkoppen zijn niet verplicht: gebruik alleen wat speelt. Overige achtergrond gaat naar de bijlage.
 8. **Informatie die niet openbaar gemaakt kan worden.** Neem het onderdeel op; is er niets, schrijf 'Niet van toepassing'. Staat zulke informatie verspreid in de nota, meld dat dan onder Aanleiding of Kernpunten. Welke informatie hieronder valt, is een vraag voor de opsteller of de jurist.
-9. **Bijlagen** beschrijven. De belangrijkste informatie uit de nota komt terug in de brief aan de Kamer: `schrijven-rijksoverheid:kamerbrief-schrijven`.
+9. **Bijlagen** beschrijven. De belangrijkste informatie uit de nota komt terug in de brief aan de Kamer: `schrijven-rijksoverheid:tekst-kamerbrief`.
 10. **Lengte en vorm.** Maximaal twee pagina's, bondig en puntsgewijs, alinea's beginnen met de kernzin, bullets bij opsommingen van meer dan twee delen, vaktermen uitgelegd omdat de nota openbaar wordt. Afkortingen schrijf je alleen uit als de volledige naam in het aangeleverde materiaal staat; anders navragen.
 11. **Checklist** uit de bron langslopen.
 

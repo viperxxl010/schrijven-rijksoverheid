@@ -1,6 +1,6 @@
 ---
-name: tekst-testen-en-controleren
-description: "Use when iemand bij de Rijksoverheid een tekst moet controleren voordat die de deur uitgaat, of moet bepalen of en hoe een tekst bij lezers getest wordt: eindredactie, checklist, tekstkwaliteit, pretest, lezerstest, testpanel, taalambassadeurs, Stichting ABC, tekst testen bij laaggeletterden, bestaande teksten evalueren, spellingcontrole, schrijfhulp, of de vraag of AI zoals een chatbot gebruikt mag worden bij het schrijven. Ook bij 'check deze tekst', 'is deze brief klaar', 'moeten we dit testen', 'hoe vraag ik een testpanel aan' of 'mag ik AI gebruiken voor deze tekst'. Voor herschrijven gebruik schrijven-rijksoverheid:b1-begrijpelijk-schrijven; voor een pretest van een campagne of ander doelgroeponderzoek communicatieadvies:publieksonderzoek-opzetten; voor effectmeting achteraf communicatieadvies:evaluatie-en-verantwoording."
+name: tekst-testen
+description: "Use when iemand bij de Rijksoverheid een tekst moet controleren voordat die de deur uitgaat, of moet bepalen of en hoe een tekst bij lezers getest wordt: eindredactie, checklist, tekstkwaliteit, pretest, lezerstest, testpanel, taalambassadeurs, Stichting ABC, tekst testen bij laaggeletterden, bestaande teksten evalueren, spellingcontrole, schrijfhulp, of de vraag of AI zoals een chatbot gebruikt mag worden bij het schrijven. Ook bij 'check deze tekst', 'is deze brief klaar', 'moeten we dit testen', 'hoe vraag ik een testpanel aan' of 'mag ik AI gebruiken voor deze tekst'. Voor herschrijven gebruik schrijven-rijksoverheid:tekst-b1; voor een pretest van een campagne of ander doelgroeponderzoek communicatieadvies:publieksonderzoek-opzetten; voor effectmeting achteraf communicatieadvies:evaluatie-en-verantwoording."
 ---
 
 # Tekst testen en controleren
@@ -38,7 +38,7 @@ Niet in deze map: de inhoud van de Checklist voor Tekstkwaliteit, de checklist b
 6. **Hoe.** Leg de tekst het liefst voor aan mensen uit de doelgroep zelf, en betrek hen als het kan al bij het ontwikkelen. Voor lezers die moeite hebben met lezen: het testpanel van vier taalambassadeurs van Stichting ABC, kosteloos via DPC. Neem de voorwaarden en de aanvraaggegevens over uit de testpanelpagina, inclusief het contactadres dat daar staat. Doorlooptijd en de vraag of het panel echte persoonsgegevens mag zien staan niet in de bron: actiepunt voor de aanvrager. Voor groter of ander onderzoek: `communicatieadvies:publieksonderzoek-opzetten` (pad `../communicatieadvies/skills/publieksonderzoek-opzetten/SKILL.md`).
 7. **Hulpmiddelen en AI.** Een hulpmiddel doet suggesties; neem ze nooit blind over. AI: ga eerst na of de tool in de organisatie is toegestaan, en pas de vier regels uit de bron toe (geen gevoelige of vertrouwelijke informatie, geen persoonsgegevens, controleer op vooroordelen en onjuistheden, let op auteursrecht en privacy). AI vervangt een test met echte lezers niet. Dat geldt ook voor deze controle zelf: zeg dat erbij.
 8. **Bestaande teksten.** Gebruik signalen uit klantcontact, vaak verkeerd ingevulde vragen en webstatistieken. Werk de tekst bij of archiveer hem.
-9. **Verbeteren.** Bevindingen verwerken met `schrijven-rijksoverheid:b1-begrijpelijk-schrijven` of de skill van de tekstsoort.
+9. **Verbeteren.** Bevindingen verwerken met `schrijven-rijksoverheid:tekst-b1` of de skill van de tekstsoort.
 
 ## Output: dit lever je op
 

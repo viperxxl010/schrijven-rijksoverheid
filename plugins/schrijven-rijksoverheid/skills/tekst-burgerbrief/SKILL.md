@@ -1,6 +1,6 @@
 ---
-name: burgerbrief-schrijven
-description: "Use when iemand bij de Rijksoverheid een brief of e-mail aan een burger moet schrijven of verbeteren: antwoord op een burgerbrief, klacht, boze of bezorgde brief, vraag van een inwoner, afwijzing of slecht nieuws, besluit of beschikking uitleggen, verzoek om actie; aanhef, onderwerpregel, toon, slot en ondertekening. Ook bij 'beantwoord deze brief', 'schrijf een antwoord aan deze mevrouw', 'hoe reageer ik op deze klacht' of 'conceptantwoord burgerbrief'. Voor een brief aan de Tweede Kamer gebruik schrijven-rijksoverheid:kamerbrief-schrijven; voor lezers die moeite hebben met lezen schrijven-rijksoverheid:a2-eenvoudig-schrijven; voor een vraag van een journalist woordvoering:persvraag-beantwoorden."
+name: tekst-burgerbrief
+description: "Use when iemand bij de Rijksoverheid een brief of e-mail aan een burger moet schrijven of verbeteren: antwoord op een burgerbrief, klacht, boze of bezorgde brief, vraag van een inwoner, afwijzing of slecht nieuws, besluit of beschikking uitleggen, verzoek om actie; aanhef, onderwerpregel, toon, slot en ondertekening. Ook bij 'beantwoord deze brief', 'schrijf een antwoord aan deze mevrouw', 'hoe reageer ik op deze klacht' of 'conceptantwoord burgerbrief'. Voor een brief aan de Tweede Kamer gebruik schrijven-rijksoverheid:tekst-kamerbrief; voor lezers die moeite hebben met lezen schrijven-rijksoverheid:tekst-a2; voor een vraag van een journalist woordvoering:persvraag-beantwoorden."
 ---
 
 # Burgerbrief schrijven
@@ -38,7 +38,7 @@ Niet in deze map: het briefsjabloon en de schrijfafspraken van de eigen organisa
 8. **Toon.** Vriendelijk, persoonlijk, positief. Woorden als graag, helaas, hartelijk bedankt. 'Ik' als je jezelf bedoelt, 'wij' voor de organisatie. Zeg wat wel kan. Eén aanspreekvorm.
 9. **Slot.** Servicegerichte alinea met contactpersoon en telefoonnummer, zo nodig verwijzing naar een andere instantie. Vermeld bijlagen.
 10. **Slotgroet.** 'Met vriendelijke groet', ook bij juridische inhoud. 'Hoogachtend' alleen bij een officieel besluit of een beschikking. Daarna naam en functie.
-11. **Checklist** uit de bron langslopen. Taal: `schrijven-rijksoverheid:b1-begrijpelijk-schrijven`.
+11. **Checklist** uit de bron langslopen. Taal: `schrijven-rijksoverheid:tekst-b1`.
 
 ## Output: dit lever je op
 

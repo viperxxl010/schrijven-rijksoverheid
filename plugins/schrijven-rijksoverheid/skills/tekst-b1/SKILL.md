@@ -1,6 +1,6 @@
 ---
-name: b1-begrijpelijk-schrijven
-description: "Use when iemand bij de Rijksoverheid een bestaande tekst begrijpelijker moet maken of op taalniveau B1 moet brengen: ambtelijke taal, jargon, vaktermen, lange zinnen, tangconstructies, lijdende vorm, naamwoordstijl, afkortingen, vage of negatieve formuleringen, u of je, juridische tekst uitleggen, webtekst voor Rijksoverheid.nl redigeren. Ook bij 'herschrijf dit naar B1', 'maak dit duidelijker', 'dit is te ambtelijk', 'redigeer deze tekst' of 'is dit begrijpelijke taal'. Voor taalniveau A2 en lezers die moeite hebben met lezen gebruik schrijven-rijksoverheid:a2-eenvoudig-schrijven; voor woordkeuze over groepen mensen schrijven-rijksoverheid:inclusief-schrijven; voor opbouw en tussenkopjes schrijven-rijksoverheid:tekst-opzetten-en-structureren."
+name: tekst-b1
+description: "Use when iemand bij de Rijksoverheid een bestaande tekst begrijpelijker moet maken of op taalniveau B1 moet brengen: ambtelijke taal, jargon, vaktermen, lange zinnen, tangconstructies, lijdende vorm, naamwoordstijl, afkortingen, vage of negatieve formuleringen, u of je, juridische tekst uitleggen, webtekst voor Rijksoverheid.nl redigeren. Ook bij 'herschrijf dit naar B1', 'maak dit duidelijker', 'dit is te ambtelijk', 'redigeer deze tekst' of 'is dit begrijpelijke taal'. Voor taalniveau A2 en lezers die moeite hebben met lezen gebruik schrijven-rijksoverheid:tekst-a2; voor woordkeuze over groepen mensen schrijven-rijksoverheid:tekst-inclusief; voor opbouw en tussenkopjes schrijven-rijksoverheid:tekst-opzetten."
 ---
 
 # Begrijpelijk schrijven op B1
@@ -42,7 +42,7 @@ Niet in deze map: de schrijfwijzer en richtlijnen van het KCBR, de woordenlijst 
 7. **Persoonlijk.** Spreek de lezer aan, gebruik ik als de schrijver zichzelf bedoelt en wij voor de organisatie, gebiedende wijs bij instructies. Eén aanspreekvorm in de hele tekst.
 8. **Foutloos.** Controleer spelling en grammatica.
 9. **Vergelijk met het origineel.** Leg origineel en nieuwe tekst naast elkaar en loop elk gemarkeerd element uit stap 2 na. Noteer per element: gelijk, anders gezegd of weg. Bij 'anders gezegd' toets je of de nieuwe zin voor elke lezer nog hetzelfde betekent; zo niet, dan herstel je de zin. Bij 'weg' zet je het element terug. Vraagt de opdracht om een tekst die korter is dan de inhoud toelaat, dan lever je de volledige tekst als hoofdversie; een korte versie is een samenvatting die naar de volledige tekst verwijst en waarvan je elke weglating in de tabel zet.
-10. **Verantwoorden.** Schrijf niet 'dit is B1' als gemeten feit. Schrijf: herschreven volgens de B1-adviezen van het Taalkompas; een test moet het bevestigen. **REQUIRED SUB-SKILL:** `schrijven-rijksoverheid:tekst-testen-en-controleren`.
+10. **Verantwoorden.** Schrijf niet 'dit is B1' als gemeten feit. Schrijf: herschreven volgens de B1-adviezen van het Taalkompas; een test moet het bevestigen. **REQUIRED SUB-SKILL:** `schrijven-rijksoverheid:tekst-testen`.
 
 ## Output: dit lever je op
 
@@ -57,7 +57,7 @@ Niet in deze map: de schrijfwijzer en richtlijnen van het KCBR, de woordenlijst 
 
 | Fout | Herstel |
 |---|---|
-| Zelfbedachte norm zoals 'maximaal 15 woorden' | De bron noemt zinnen tot 25 woorden; voor A2 gelden eigen regels, zie `schrijven-rijksoverheid:a2-eenvoudig-schrijven` |
+| Zelfbedachte norm zoals 'maximaal 15 woorden' | De bron noemt zinnen tot 25 woorden; voor A2 gelden eigen regels, zie `schrijven-rijksoverheid:tekst-a2` |
 | 'Dit is nu B1' zonder test | Zeg dat het volgens de B1-adviezen is herschreven en laat testen |
 | Inhoud of termijn mee veranderd | Feiten vastzetten vóór het herschrijven |
 | Juridische term geschrapt | Laten staan en uitleggen |
