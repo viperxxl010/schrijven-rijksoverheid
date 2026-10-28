@@ -45,6 +45,7 @@ met hetzelfde relatieve pad als in `bronnen/` van de kennisbank.
 - `bronnen/communicatierijk/vakkennis/taalkompas/stijl/foutloze-taal.md` — Foutloze taal | CommunicatieRijk
 - `bronnen/communicatierijk/vakkennis/taalkompas/boodschap/leer-je-doelgroep-kennen/kies-de-juiste-toon.md` — Kies de juiste toon | CommunicatieRijk
 - `bronnen/communicatierijk/vakkennis/taalkompas/tekstsoorten/juridische-tekst.md` — Juridische tekst | CommunicatieRijk
+- `bronnen/kcbr/duidelijke-taal/handreiking-duidelijke-taal-2024-05.txt` — handreiking-duidelijke-taal-2024-05.pdf (tekstversie)
 - `bronnen/communicatierijk/vakkennis/rijkswebsites/aanbevolen-richtlijnen/taalniveau-b1.md` — Taalniveau B1 | CommunicatieRijk
 - `bronnen/communicatiekompas/hulpmiddelen/teksten-schrijven.md` — Teksten schrijven
 - `bronnen/communicatierijk/actueel/af-en-toe-een-punt-zetten-mag-best.md` — Af en toe een punt zetten mag best | CommunicatieRijk

@@ -12,7 +12,7 @@ Rijksoverheid, de Dienst Publiek en Communicatie of het Communicatiekompas.
 
 ## Plugins
 
-### Schrijven bij de Rijksoverheid (`schrijven-rijksoverheid`, versie 0.3.0)
+### Schrijven bij de Rijksoverheid (`schrijven-rijksoverheid`, versie 0.3.1)
 
 Schrijven zoals de Rijksoverheid het afspreekt (Taalkompas): tekst opzetten en structureren, begrijpelijke taal op B1, burgerbrief, Kamerbrief, beslisnota, inclusief schrijven, eenvoudige taal op A2 en teksten testen bij lezers, gebaseerd op communicatierijk.nl en communicatiekompas.nl.
 
@@ -75,6 +75,10 @@ invulformulieren en CASI-publicaties). **Uitzondering op CC0:** de *Handleiding 
 Volgens het colofon mogen delen ervan met vermelding van auteur en bron worden gebruikt voor
 niet-commerciële doeleinden; voor ander gebruik is toestemming nodig van de Dienst Publiek en
 Communicatie (Ministerie van Algemene Zaken). Zie `bronnen/OVERZICHT.md` in die plugin.
+
+De plugin `beeld-rijksoverheid` bevat teksten van beeldkompas.nl. Die tekst is vrijgegeven onder CC0,
+**de beelden van Beeldkompas niet**: die zitten niet in de plugin, en verwijzingen ernaar en
+makersvermeldingen zijn uit de teksten gehaald. Bekijk voorbeeldbeelden op beeldkompas.nl zelf.
 
 Alles in deze repository (skills, manifesten, README) is, met uitzondering van de hierboven genoemde
 Handleiding CASI, vrijgegeven onder

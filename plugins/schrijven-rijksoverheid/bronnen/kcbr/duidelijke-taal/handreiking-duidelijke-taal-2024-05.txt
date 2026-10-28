@@ -1,0 +1,316 @@
+[Tekstversie van handreiking-duidelijke-taal-2024-05.pdf, omgezet met pdftotext -layout]
+
+Jargon, jeukwoorden en tenenkrommend Nederlands
+Handreiking duidelijke taal voor regelgeving en overheidscommunicatie
+
+
+
+
+KCBR-website: Duidelijke taal
+Mei 2024
+
+
+
+
+                                                      1
+Inhoud
+1         Inleiding .......................................................................................................................................................... 2
+2         Ambtenarentaal of politiek taalgebruik ........................................................................................................... 2
+3         Ingewikkelde zinsconstructies ........................................................................................................................ 4
+    3.2           Onderbroken zinsstructuur .................................................................................................................... 5
+    3.3           Zinnen met een lange aanloop .............................................................................................................. 5
+    3.4           Voorzetselketens ................................................................................................................................... 6
+4         Archaïsch taalgebruik ..................................................................................................................................... 6
+
+
+
+
+1 Inleiding
+Deze handreiking geeft een overzicht van te voorkomen woorden of zinsconstructies bij het opstellen van
+begrijpelijke wet- en regelgeving. Als beleidsmedewerker of wetgevingsjurist moet je je bewust zijn van het
+belang van duidelijke taal bij het formuleren van wet- en regelgeving. Duidelijke taal helpt de gebruiker namelijk
+om de tekst tot zich te nemen en te begrijpen. Deze handreiking biedt je een krachtig hulpmiddel om jargon,
+archaïsch taalgebruik en ingewikkelde zinsconstructies te vermijden.
+
+
+2 Ambtenarentaal of politiek taalgebruik
+‘Ambtenarentaal’ is een combinatie van (vak)jargon (juridisch of beleidsmatig) en archaïsche deftige termen die
+regelmatig leidt tot complexe teksten die de toegankelijkheid van overheidscommunicatie in gevaar kan brengen.
+Het kan leiden tot verwarring en kan zelfs leiden tot misinterpretatie van belangrijke informatie. In bepaalde
+gevallen wordt dit jargon zelfs gebruikt om bewust vaag te blijven. Door ambtenarentaal te vermijden en te kiezen
+voor duidelijke, begrijpelijke taal, kunnen overheidsinstanties effectiever communiceren met het publiek en de
+betrokkenheid van burgers vergroten. Het bevorderen van heldere taal is een stap in de richting van een
+transparante en responsieve overheid die het vertrouwen en begrip van haar burgers wint.
+
+Onderstaande voorbeelden kunnen bijvoorbeeld voorkomen in Kamerbrieven, toelichtingen, reacties op
+Kamervragen maar ook in e-mailverkeer. Door je bewust te zijn van ambtenarentaal – en dit te vermijden – ga je
+vanzelf duidelijker communiceren. Duidelijke communicatie leidt tot minder verwarring en daarmee winst.
+
+
+    Prioritering                                                                           Betekent dat we bepalen wat we belangrijk
+                                                                                           vinden. Dit is een normale taak van
+                                                                                           bewindspersonen.
+    Ambitieniveau                                                                          Gaat vaak gepaard met een ongedefinieerd
+                                                                                           doel en onduidelijke politieke instrumenten.
+    Substantieel                                                                           Vaak gebruikt om iets te abstraheren.
+                                                                                           Substantiële opgave betekent vaak
+                                                                                           ‘problemen’.
+    Afhechten                                                                              Bedoeld wordt: afmaken.
+
+    ‘Ter voorkoming van…’                                                                  Herschrijven in: ‘Om te voorkomen dat…’
+
+    Meer frequent                                                                          Bedoeld wordt: vaker.
+
+    Transitie                                                                              Onnodig ingewikkeld. Alternatief:
+                                                                                           verandering
+
+
+
+                                                                                       2
+ Pilot                                                      Kan ook in het Nederlands: proef.
+
+ Eigenstandig                                               Politiek modewoord. Gebruik gewoon:
+                                                            zelfstandig
+
+ Herprioritering                                            Bedoeld wordt: er zijn nieuwe keuzes
+                                                            gemaakt
+
+ Onderhavig                                                 Dit is een erg formeel woord, dat vooral in
+                                                            juridische teksten voorkomt. Veelal kan dit
+                                                            worden weggelaten. Het betekent: 'waarvan
+                                                            op het ogenblik sprake is’ of ‘wat hier
+                                                            behandeld wordt'.
+
+ Middels                                                    Een formeel en oud woord. Kan worden
+                                                            vervangen met het woord ‘door’.
+
+ Aldus                                                      Aldus is een vrij formeel bijwoord. Het is
+                                                            aan te bevelen neutralere formuleringen te
+                                                            gebruiken zoals ‘zo’, ‘op die manier’ of ‘op
+                                                            die wijze’.
+
+ Bovengenoemde                                              Niet direct fout, maar wel ongewenst om de
+                                                            tekst leesbaar te houden. Gebruik bij
+                                                            voorkeur ‘deze’ of ‘dit’.
+
+ In casu                                                    Dit is een Latijns begrip dat niet in het
+                                                            dagelijks leven wordt gebruikt. Het betekent
+                                                            'in dat geval'
+
+ Zulks                                                      Ondefinieerbaar woord. Gebruik ‘dat’,
+                                                            ‘zoiets’, ‘iets soortgelijks’ of ‘iets dergelijks’.
+
+ Reflecteren                                                Met reflecteren wordt binnen de overheid
+                                                            het terugkijken naar hoe je te werk bent
+                                                            gegaan bedoeld en hoe je daarvan hebt
+                                                            geleerd. Dit woord kan in een andere
+                                                            context verschillende betekenissen hebben.
+                                                            Probeer het daarom te vermijden.
+In veel gevallen zijn het gebruik van jargon en ambtenarentaal geen bewuste keuze. Zo sluipen jargon en wollige
+formuleringen ongemerkt binnen in wetteksten en beleidsteksten. Dat komt doordat mensen geneigd zijn te
+schrijven zoals zij denken dat dat hoort. Op die manier proberen zij genuanceerd over te komen, proberen zij juist
+zoveel mogelijk politieke ruimte te creëren of soms ook onzekerheid te verbergen. Zeker ook juristen hebben de
+neiging te denken dat minder juridisch/ambtelijk taalgebruik leidt tot minder precisie.
+
+Wanneer je werk wilt maken om zo min mogelijk ambtenarentaal te gebruiken, kan je kijken in het Ambtelijk
+woordenboek. Hierin staan tal van achterhaalde taalvoorbeelden waarvoor een geschikt alternatief is. De
+voorbeelden staan op alfabetische volgorde, zodat je jouw ambtenarenterm eenvoudig kan opzoeken.
+
+
+
+
+                                                        3
+3 Ingewikkelde zinsconstructies
+Naast woordkeuzes spelen ook de lengte van een zin en de zinsbouw een grote rol in duidelijke taal. Een
+veelvoorkomend probleem zijn ingewikkelde zinnen. Wanneer je te veel informatie in één zin wilt stoppen, wordt
+een zin al snel ingewikkeld. De lezer moet dan veel meer moeite doen om hem te begrijpen. In het slechtste
+geval moet hij de zin verschillende keren horen of lezen om er vat op te krijgen en begrijpt hij hem uiteindelijk
+niet.
+
+Hieronder staan verschillende tips waarmee je zinsconstructies kunt vermijden die gemakkelijk tot ingewikkelde
+of moeilijk leesbare zinnen leiden. Zo kan je bijvoorbeeld zinnen splitsen in korte zinnen, zinsdelen verplaatsen of
+de zin anders formuleren.
+
+3.1 Tangconstructies
+
+Zinnen bevatten een tangconstructie als woorden die grammaticaal bij elkaar horen van elkaar gescheiden
+worden door andere woorden. Zulke constructies zijn heel gewoon in het Nederlands. Zo vormen een lidwoord
+en een zelfstandig naamwoord één geheel (bijvoorbeeld ‘het formulier’), maar dat geheel kun je scheiden door
+tussen het lidwoord en het zelfstandig naamwoord een of meer woorden toe te voegen, bijvoorbeeld een
+bijvoeglijk naamwoord (‘het lange formulier’).
+
+Tangconstructies komen op allerlei manieren voor in teksten. Hieronder staan verschillende gevallen met een
+tangconstructie die tot een moeilijk leesbare tekst leidt. De twee grijpers van de tang zijn in de voorbeelden
+telkens gecursiveerd. Je kunt de tangconstructie minder zwaar maken door de twee grijpers van de tang dichter
+bij elkaar te brengen. Als de zin erg lang is, kun je de tang gemakkelijk wegwerken door de zin te splitsen.
+Een tangconstructie wordt slecht leesbaar als de twee grijpers van de tang te ver uit elkaar staan. De lezers
+raken de draad dan vlugger kwijt. Dat is bijvoorbeeld het geval in het hieronder staande voorbeeld over de
+verzekeringsagent en het ondertekende formulier.
+
+
+Te vermijden constructies
+
+ Niet te veel woorden tussen:                                Wél toepassen:
+
+ een lidwoord en een zelfstandig
+ naamwoord
+                                                             Stuur ons het formulier dat uw
+ Stuur ons het in januari door uw                            verzekeringsagent in januari heeft ingevuld
+ verzekeringsagent ingevulde en                              en ondertekend.
+ ondertekende formulier.
+
+
+ een persoonsvorm en de
+ werkwoordsvormen die daarbij horen
+
+ U mag voor de berekening van uw premie                      Tel voor de berekening van uw premie
+ alleen de facturen die minder dan één jaar                  alleen facturen mee die minder dan één
+ oud zijn en die door een geregistreerde                     jaar oud zijn en door een geregistreerde
+ aannemer zijn uitgeschreven, meetellen                      aannemer zijn uitgeschreven.
+
+ de delen van een scheidbaar werkwoord
+
+ De motor drijft de twee remdrukpompjes die                  De motor drijft de twee
+ boven op het motorblok gemonteerd                           remdrukpompjes aan die boven op het
+ zijn, aan.                                                  motorblok gemonteerd zijn.
+
+
+
+ het eerste woord van een bijzin en de
+ werkwoordelijke eindgroep van die bijzin
+
+                                                         4
+ We hebben deskundigen                                      We hebben deskundigen gezocht die hun
+ gezocht die volgende maand een                             oordeel willen geven over het vakgebied en
+ internetenquête met vijftig vragen over het                de popularisering ervan. Zij beantwoorden
+ vakgebied en de popularisering ervan willen                volgende maand een internetenquête met
+ beantwoorden.                                              vijftig vragen.
+
+
+   3.2 Onderbroken zinsstructuur
+Als je zinnen onderbreekt door er allerlei aanvullende informatie in te stoppen, krijg je hetzelfde effect als bij
+tangconstructies. De toehoorder, gesprekspartner of lezer moet meer moeite doen om de hoofdlijn van de zin te
+kunnen volgen. Je kunt aanvullende informatie daarom beter zo kort mogelijk houden, of vooraan of achteraan in
+de zin zetten zodat die het geheel niet onderbreekt. Je kunt er ook een aparte zin van maken. In de
+onderstaande voorbeelden is de aanvullende informatie gecursiveerd.
+
+Te vermijden constructies
+
+ de zin niet onderbreken met:                               Wél toepassen:
+
+ een lange bijstelling
+
+ Mark Rutte, de energieke minister-president                Mark Rutte, politicus van het jaar 2010, is
+ en in 2010 de ‘politicus van het jaar’, wordt              minister-president en wordt naast zijn
+ naast zijn carrière als docent de secretaris-              carrière als docent de secretaris-generaal
+ generaal van de NAVO.                                      van de NAVO.
+
+
+
+ een lange bijzin
+
+ Mark Rutte, die twee keer politicus van het                Mark Rutte wordt waarschijnlijk secretaris-
+ jaar was en ook de langstzittende minister-                generaal van de NAVO. Rutte is twee keer
+ president is, wordt waarschijnlijk de                      politicus van het jaar geworden en is de
+ secretaris-generaal van de NAVO.                           langstzittende minister-president.
+
+
+ een lange tussenzin
+
+ Mark Rutte – we kennen hem allemaal als                    Mark Rutte is twee keer uitgeroepen tot
+ de langstzittende minister-president van                   politicus van het jaar. We kennen Rutte
+ Nederland – is twee keer uitgeroepen tot                   allemaal als langstzittende minister-
+ politicus van het jaar.                                    president van Nederland.
+
+
+
+
+3.3 Zinnen met een lange aanloop
+Een zin met een lange aanloop is een lange zin waarin de kern van de informatie helemaal achteraan staat. Door
+een lange aanloop stel je de aandacht van je lezer extra op de proef omdat het te lang duurt voordat hij bij de
+kern komt.
+
+Te vermijden constructies
+
+ Schrijf niet:                                              Schrijf wel:
+
+
+                                                        5
+ Doordat uw aanvraag voor een                             Ik moet u melden dat het gemeentebestuur
+ projectsubsidie is binnengekomen op 1                    uw aanvraag voor een projectsubsidie niet-
+ april, de dag na de afsluiting van de                    ontvankelijk heeft verklaard. De reden
+ aanvraagperiode, moet ik u melden dat het                daarvoor is dat uw aanvraag
+ gemeentebestuur uw aanvraag niet-                        binnengekomen is op 1 april, de dag na de
+ ontvankelijk heeft verklaard.                            afsluiting van de aanvraagperiode.
+
+
+ Door de late start van het project en de                 We hebben de resultaten van de
+ strakke deadlines zijn we er niet in                     tussentijdse tests niet kunnen vergelijken
+ geslaagd om de resultaten van de                         met die van het proefproject. Dat komt door
+ tussentijdse tests met die van het                       de late start van het project en de strakke
+ proefproject te vergelijken.                             deadlines.
+
+
+3.4 Voorzetselketens
+Een voorzetselketen is een lange opeenvolging van bepalingen die telkens met een voorzetsel (van, voor) of een
+voorzetseluitdrukking (in verband met, met betrekking tot) beginnen. Voorzetselketens leiden tot een
+opeenstapeling van naamwoorden, waardoor de formulering omslachtig en minder duidelijk wordt. Je kunt
+voorzetselketens vermijden door de informatie over verschillende zinnen te verdelen. Voorzetseluitdrukkingen
+kun je het best vervangen door gewone voorzetsels.
+
+Te vermijden constructies
+
+ Schrijf niet;                                            Schrijf wel;
+
+ Met dit formulier kunt u een aanvraag                    Met dit formulier vraagt u een
+ doen voor de tegemoetkoming in de                        tegemoetkoming in de kosten van een
+ kosten van hypothecaire leningen voor het                hypothecaire lening aan. U hebt recht op
+ renoveren van een bestaande                              die tegemoetkoming als u een bestaande
+ woning in een krimpregio.                                woning in een krimpregio renoveert.
+
+
+ Met het oog op de verbetering van de                     Het Amsterdamse stadsbestuur wil nog
+ toeristische infrastructuur in het                       enkele
+ centrum van Amsterdam wil het                            restauratieaanvragen voor beschermde
+ stadsbestuur nog enkele                                  monumenten goedkeuren. Daarmee wil de
+ restauratieaanvragen met betrekking                      stad de toeristische infrastructuur in het
+ tot beschermde monumenten met een                        centrum verbeteren. Het gaat om gebouwen
+ cultuurhistorisch belang voor toeristen                  die voor toeristen cultuurhistorisch
+ goedkeuren.                                              interessant zijn.
+
+
+4 Archaïsch taalgebruik
+Archaïsch taalgebruik verwijst naar woorden, zinnen, grammaticale structuren en uitdrukkingen die verouderd of
+ouderwets zijn en niet langer gangbaar zijn in het moderne taalgebruik. Toch worden dit soort woorden nog
+gebruikt, zeker in meer formele teksten. Het gebruik van archaïsch taalgebruik kan echter enkele problemen met
+zich meebrengen:
+
+    1.   Onbegrip: Moderne lezers of luisteraars kunnen moeite hebben om de betekenis van archaïsche
+         woorden of uitdrukkingen te begrijpen, wat leidt tot verwarring en verminderde communicatie-
+         effectiviteit.
+    2.   Onduidelijkheid: Archaïsch taalgebruik kan de duidelijkheid van de boodschap verminderen, omdat het
+         vaak minder bekende woorden of betekenissen omvat.
+
+
+                                                      6
+    3.   Tijdsgebonden: Archaïsche taal kan de tekst of communicatie verouderd doen lijken en de lezer of
+         luisteraar een gevoel van afstand geven. Juist als het gaat om communicatie door de overheid, is die
+         afstand niet – zeker ook politiek – niet gewenst.
+    4.   Exclusiviteit: Het gebruik van archaïsche taal kan de tekst of communicatie beperken tot een specifiek
+         publiek dat bekend is met dat taalgebruik, waardoor andere lezers of luisteraars worden buitengesloten.
+    5.   Verlies van betekenis: Sommige archaïsche woorden kunnen hun oorspronkelijke betekenis hebben
+         verloren of zijn anders geïnterpreteerd in de loop van de tijd, wat tot misverstanden kan leiden.
+
+Hoewel archaïsch taalgebruik soms bewust wordt gebruikt in literaire werken, poëzie, historische teksten of om
+een specifieke sfeer op te roepen, is het belangrijk om te overwegen wie het doelpubliek is en welke
+communicatiedoelen worden nagestreefd bij het gebruik ervan. In veel moderne contexten, zoals zakelijke
+communicatie, wetenschappelijke teksten of informele gesprekken, is het vermijden van archaïsch taalgebruik
+meestal de beste manier om effectieve en begrijpelijke communicatie te garanderen. Het Genootschap Onze
+Taal heeft een lijst opgesteld met te vermijden archaïsche woorden en potentiële alternatieven om te gebruiken in
+je tekst.
+
+
+
+
+                                                       7
+
