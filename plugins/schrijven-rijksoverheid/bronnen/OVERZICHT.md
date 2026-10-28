@@ -48,7 +48,9 @@ met hetzelfde relatieve pad als in `bronnen/` van de kennisbank.
 - `bronnen/kcbr/duidelijke-taal/handreiking-duidelijke-taal-2024-05.txt` — handreiking-duidelijke-taal-2024-05.pdf (tekstversie)
 - `bronnen/communicatierijk/vakkennis/rijkswebsites/aanbevolen-richtlijnen/taalniveau-b1.md` — Taalniveau B1 | CommunicatieRijk
 - `bronnen/communicatiekompas/hulpmiddelen/teksten-schrijven.md` — Teksten schrijven
-- `bronnen/communicatierijk/actueel/af-en-toe-een-punt-zetten-mag-best.md` — Af en toe een punt zetten mag best | CommunicatieRijk
+- `bronnen/communicatierijk/vakkennis/taalkompas/hulpmiddelen-gebruiken/ai-gebruiken-bij-het-schrijven.md` — AI gebruiken bij het schrijven | CommunicatieRijk
+- `bronnen/communicatierijk/vakkennis/taalkompas/waarom-een-taalkompas/de-voordelen-van-begrijpelijke-teksten.md` — De voordelen van begrijpelijke teksten | CommunicatieRijk
+- `bronnen/communicatierijk/vakkennis/taalkompas/waarom-een-taalkompas/begrijpelijke-taal-als-beleidsonderwerp.md` — Begrijpelijke taal als beleidsonderwerp | CommunicatieRijk
 
 ## tekst-burgerbrief
 
@@ -102,7 +104,8 @@ met hetzelfde relatieve pad als in `bronnen/` van de kennisbank.
 - `bronnen/communicatierijk/documenten/themameting-taalniveaus/72606-AZ-Themameting-Taalniveaus_TG.txt` — 72606+-+AZ+-+Themameting+Taalniveaus_TG.pdf (tekstversie)
 - `bronnen/communicatierijk/documenten/vertaalbeleid-rijksoverheid/vertaalbeleid-rijksoverheid.md` — Vertaalbeleid Rijksoverheid | CommunicatieRijk
 - `bronnen/communicatierijk/documenten/vertaalbeleid-rijksoverheid/Vertaalbeleid-Rijksoverheid.txt` — Vertaalbeleid+Rijksoverheid.pdf (tekstversie)
-- `bronnen/communicatierijk/actueel/3-tips-voor-betere-communicatie-met-laaggeletterden.md` — 3 tips voor betere communicatie met laaggeletterden | CommunicatieRijk
+- `bronnen/communicatierijk/vakkennis/taalkompas/tekstsoorten/juridische-tekst.md` — Juridische tekst | CommunicatieRijk
+- `bronnen/communicatierijk/vakkennis/taalkompas/hulpmiddelen-gebruiken/ai-gebruiken-bij-het-schrijven.md` — AI gebruiken bij het schrijven | CommunicatieRijk
 
 ## tekst-testen
 

@@ -12,7 +12,7 @@ Rijksoverheid, de Dienst Publiek en Communicatie of het Communicatiekompas.
 
 ## Plugins
 
-### Schrijven bij de Rijksoverheid (`schrijven-rijksoverheid`, versie 0.3.1)
+### Schrijven bij de Rijksoverheid (`schrijven-rijksoverheid`, versie 0.4.0)
 
 Schrijven zoals de Rijksoverheid het afspreekt (Taalkompas): tekst opzetten en structureren, begrijpelijke taal op B1, burgerbrief, Kamerbrief, beslisnota, inclusief schrijven, eenvoudige taal op A2 en teksten testen bij lezers, gebaseerd op communicatierijk.nl en communicatiekompas.nl.
 
@@ -29,6 +29,10 @@ Skills:
 
 Elke skill bevat een leestabel die verwijst naar de meegeleverde bronteksten in `bronnen/`.
 De agent leest die teksten bij gebruik; de skill geeft werkwijze, output en veelgemaakte fouten.
+
+In Claude Code geeft deze plugin bij de start van elke sessie (SessionStart-hook) een korte
+instructie mee: welke skills er zijn en welke grondregels gelden. De hook voert alleen
+een `echo` uit en verstuurt niets.
 
 ## Installeren in de Codex-app (ChatGPT)
 

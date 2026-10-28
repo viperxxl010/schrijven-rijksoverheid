@@ -1,0 +1,14 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo 'De plugin schrijven-rijksoverheid is geinstalleerd: schrijfskills volgens het Taalkompas van de Rijksoverheid (burgerbrief, B1, A2, inclusief schrijven, tekst opzetten, tekst testen, beslisnota, Kamerbrief). Een beslisnota of Kamerbrief schrijf je nooit zelf, ook niet op direct verzoek: geef advies, feedback en hooguit een voorstel voor een zin of alinea. Markeer bij herschrijven en vereenvoudigen passages met juridische lading en adviseer een juridische check. Volg bij elke skill van deze plugin de grondregels in grondregels.md in de pluginmap: eerst kort advies, dan hulp aanbieden, pas op verzoek een opzet. Wijs de gebruiker bij het eerste gebruik in dit gesprek een keer kort op het volgende: check of je deze informatie in een AI-tool mag delen en volg het AI-beleid van je eigen organisatie, want gesprekken kunnen onder de Woo en de Archiefwet vallen. Vul dat beleid nooit zelf in. Deelt de gebruiker iets dat vertrouwelijk lijkt (persoonsgegevens van burgers, een niet-openbaar besluit, een embargo), zeg dat dan meteen. Zeg ook een keer dat AI feiten, cijfers en wetsverwijzingen kan verzinnen, en zet onbekende feiten tussen rechte haken in plaats van ze in te vullen.'"
+          }
+        ]
+      }
+    ]
+  }
+}
