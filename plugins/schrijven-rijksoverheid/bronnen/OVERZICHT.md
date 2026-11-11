@@ -71,6 +71,35 @@ met hetzelfde relatieve pad als in `bronnen/` van de kennisbank.
 - `bronnen/communicatierijk/vakkennis/taalkompas/tekstsoorten/kamerbrief/voorbeeld-van-een-kamerbrief.md` — Voorbeeld van een kamerbrief | CommunicatieRijk
 - `bronnen/communicatierijk/vakkennis/taalkompas/tekstsoorten/beslisnota.md` — Beslisnota | CommunicatieRijk
 
+## tekst-nieuwsbericht
+
+- `bronnen/communicatierijk/vakkennis/taalkompas/tekstsoorten/kamerbrief.md` — Kamerbrief | CommunicatieRijk
+- `bronnen/communicatierijk/vakkennis/taalkompas/boodschap/wat-heeft-de-lezer-nodig.md` — Wat heeft de lezer nodig? | CommunicatieRijk
+- `bronnen/communicatierijk/vakkennis/taalkompas/structuur/tussenkopjes.md` — Tussenkopjes | CommunicatieRijk
+- `bronnen/communicatierijk/vakkennis/taalkompas/structuur/tussenkopjes/formulering-van-tussenkopjes.md` — Formulering van tussenkopjes | CommunicatieRijk
+- `bronnen/communicatierijk/vakkennis/taalkompas/structuur/duidelijke-alineas.md` — Duidelijke alinea's | CommunicatieRijk
+- `bronnen/communicatierijk/vakkennis/taalkompas/stijl.md` — Stijl | CommunicatieRijk
+- `bronnen/communicatierijk/vakkennis/taalkompas/stijl/actieve-zinnen.md` — Actieve zinnen | CommunicatieRijk
+- `bronnen/communicatierijk/vakkennis/taalkompas/stijl/concrete-taal.md` — Concrete taal | CommunicatieRijk
+- `bronnen/communicatierijk/vakkennis/taalkompas/stijl/alledaagse-taal/vaktermen.md` — Vaktermen | CommunicatieRijk
+- `bronnen/communicatierijk/vakkennis/taalkompas/stijl/vermijd-afkortingen.md` — Vermijd afkortingen | CommunicatieRijk
+- `bronnen/communicatierijk/vakkennis/rijkswebsites/aanbevolen-richtlijnen/taalniveau-b1.md` — Taalniveau B1 | CommunicatieRijk
+
+## tekst-vraag-antwoord
+
+- `bronnen/communicatierijk/vakkennis/taalkompas/boodschap/wat-heeft-de-lezer-nodig.md` — Wat heeft de lezer nodig? | CommunicatieRijk
+- `bronnen/communicatierijk/vakkennis/taalkompas/structuur/logische-structuur.md` — Logische structuur | CommunicatieRijk
+- `bronnen/communicatierijk/vakkennis/taalkompas/structuur/duidelijke-alineas.md` — Duidelijke alinea's | CommunicatieRijk
+- `bronnen/communicatierijk/vakkennis/taalkompas/structuur/tussenkopjes.md` — Tussenkopjes | CommunicatieRijk
+- `bronnen/communicatierijk/vakkennis/taalkompas/structuur/tussenkopjes/formulering-van-tussenkopjes.md` — Formulering van tussenkopjes | CommunicatieRijk
+- `bronnen/communicatierijk/vakkennis/taalkompas/structuur/opsommingen.md` — Opsommingen | CommunicatieRijk
+- `bronnen/communicatierijk/vakkennis/taalkompas/stijl/persoonlijke-taal.md` — Persoonlijke taal | CommunicatieRijk
+- `bronnen/communicatierijk/vakkennis/taalkompas/boodschap/leer-je-doelgroep-kennen/kies-de-juiste-toon.md` — Kies de juiste toon | CommunicatieRijk
+- `bronnen/communicatierijk/vakkennis/taalkompas/stijl/actieve-zinnen.md` — Actieve zinnen | CommunicatieRijk
+- `bronnen/communicatierijk/vakkennis/taalkompas/stijl/alledaagse-taal/vaktermen.md` — Vaktermen | CommunicatieRijk
+- `bronnen/communicatierijk/vakkennis/rijkswebsites/aanbevolen-richtlijnen/taalniveau-b1.md` — Taalniveau B1 | CommunicatieRijk
+- `bronnen/communicatierijk/vakkennis/taalkompas/teksten-testen/teksten-testen.md` — Teksten testen | CommunicatieRijk
+
 ## tekst-beslisnota
 
 - `bronnen/communicatierijk/vakkennis/taalkompas/tekstsoorten/beslisnota.md` — Beslisnota | CommunicatieRijk

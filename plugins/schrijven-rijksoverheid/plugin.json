@@ -1,8 +1,8 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "schrijven-rijksoverheid",
-  "version": "0.4.0",
-  "description": "Schrijven zoals de Rijksoverheid het afspreekt (Taalkompas): tekst opzetten en structureren, begrijpelijke taal op B1, burgerbrief, Kamerbrief, beslisnota, inclusief schrijven, eenvoudige taal op A2 en teksten testen bij lezers, gebaseerd op communicatierijk.nl en communicatiekompas.nl.",
+  "version": "0.5.0",
+  "description": "Schrijven zoals de Rijksoverheid het afspreekt (Taalkompas): tekst opzetten en structureren, begrijpelijke taal op B1, burgerbrief, Kamerbrief, nieuwsbericht bij een Kamerbrief, vragen en antwoorden voor de website, beslisnota, inclusief schrijven, eenvoudige taal op A2 en teksten testen bij lezers, gebaseerd op communicatierijk.nl en communicatiekompas.nl.",
   "author": {
     "name": "Aigenwijs",
     "url": "https://aigenwijs.com"
@@ -20,6 +20,9 @@
     "taalniveau",
     "burgerbrief",
     "kamerbrief",
+    "nieuwsbericht",
+    "vraag en antwoord",
+    "faq",
     "beslisnota",
     "inclusief schrijven",
     "genderneutraal",
